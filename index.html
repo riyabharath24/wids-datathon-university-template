@@ -566,7 +566,9 @@ let lastBubbleClickTime = 0;
 let isProcessing = false;
 let clickedTractLayer = null; // track the currently clicked/darkened tract layer
 
-const DEEPSEEK_KEY = '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'; // replace with actual key
+//const DEEPSEEK_KEY = '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'; // replace with actual key
+
+const PROXY_URL = 'https://wids-proxy.vercel.app/api/proxy';
 
 // ===== SIMULATE RAISED HANDS =====
 // Fallback sample request templates for when CSV fails to load
@@ -1000,11 +1002,10 @@ beneficiary_tags options: elderly, disability, no_vehicle, families, children, g
 Be generous in tagging. Extract all relevant tags.`;
 
   try {
-    const resp = await fetch("https://router.huggingface.co/novita/v3/openai/chat/completions", {
+    const resp = await fetch(PROXY_URL, {
       method: 'POST',
       headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${DEEPSEEK_KEY}`
+        'Content-Type': 'application/json'
       },
       body: JSON.stringify({
         model: 'deepseek/deepseek-v3-0324',
@@ -1075,11 +1076,10 @@ IMPORTANT: If the text contains multiple distinct needs (e.g. "I need a ride and
 Be generous in tagging. Extract all relevant tags.`;
 
   try {
-    const resp = await fetch("https://router.huggingface.co/novita/v3/openai/chat/completions", {
+    const resp = await fetch(PROXY_URL, {
       method: 'POST',
       headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${DEEPSEEK_KEY}`
+        'Content-Type': 'application/json'
       },
       body: JSON.stringify({
         model: 'deepseek/deepseek-v3-0324',
