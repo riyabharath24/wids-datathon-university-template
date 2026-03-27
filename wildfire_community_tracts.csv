@@ -1,0 +1,952 @@
+GEOID,NAME,county_fips,county_name,Total Population,Percent of Households with Elderly,Percent of Population with Disability,Percent of Households without Vehicle,flag_high_elderly,flag_high_disability,flag_low_vehicle_access,total_flags,preparedness_tier
+06007000102,Census Tract 1.02; Butte County; California,007,Butte,4213,40.7,20.4,4.6,0,0,0,0,Standard Preparedness
+06007000103,Census Tract 1.03; Butte County; California,007,Butte,6169,21.1,7.9,1.3,0,0,0,0,Standard Preparedness
+06007000104,Census Tract 1.04; Butte County; California,007,Butte,5588,36.2,15.9,7.8,0,0,0,0,Standard Preparedness
+06007000201,Census Tract 2.01; Butte County; California,007,Butte,4136,22.5,12.1,5.1,0,0,0,0,Standard Preparedness
+06007000202,Census Tract 2.02; Butte County; California,007,Butte,3771,36.7,21.5,10.6,0,1,1,2,Elevated Concern
+06007000300,Census Tract 3; Butte County; California,007,Butte,5057,20.8,22.5,11.3,0,1,1,2,Elevated Concern
+06007000401,Census Tract 4.01; Butte County; California,007,Butte,5295,16.1,11.2,4.1,0,0,0,0,Standard Preparedness
+06007000403,Census Tract 4.03; Butte County; California,007,Butte,3572,35.4,18.0,6.9,0,0,0,0,Standard Preparedness
+06007000404,Census Tract 4.04; Butte County; California,007,Butte,3514,37.2,10.8,1.3,0,0,0,0,Standard Preparedness
+06007000501,Census Tract 5.01; Butte County; California,007,Butte,4368,27.3,8.5,3.3,0,0,0,0,Standard Preparedness
+06007000502,Census Tract 5.02; Butte County; California,007,Butte,5361,11.1,13.4,6.3,0,0,0,0,Standard Preparedness
+06007000601,Census Tract 6.01; Butte County; California,007,Butte,3414,33.6,7.7,0.4,0,0,0,0,Standard Preparedness
+06007000603,Census Tract 6.03; Butte County; California,007,Butte,3653,13.3,11.5,13.8,0,0,1,1,Standard Preparedness
+06007000604,Census Tract 6.04; Butte County; California,007,Butte,4456,7.2,11.5,4.5,0,0,0,0,Standard Preparedness
+06007000700,Census Tract 7; Butte County; California,007,Butte,4885,26.3,8.1,11.6,0,0,1,1,Standard Preparedness
+06007000800,Census Tract 8; Butte County; California,007,Butte,5736,30.8,13.9,1.1,0,0,0,0,Standard Preparedness
+06007000901,Census Tract 9.01; Butte County; California,007,Butte,2962,35.4,15.1,3.1,0,0,0,0,Standard Preparedness
+06007000903,Census Tract 9.03; Butte County; California,007,Butte,6138,27.1,21.2,6.9,0,1,0,1,Standard Preparedness
+06007000904,Census Tract 9.04; Butte County; California,007,Butte,6102,42.7,17.0,6.9,1,0,0,1,Standard Preparedness
+06007001000,Census Tract 10; Butte County; California,007,Butte,5552,9.9,12.9,8.6,0,0,0,0,Standard Preparedness
+06007001100,Census Tract 11; Butte County; California,007,Butte,4240,19.7,14.3,11.0,0,0,1,1,Standard Preparedness
+06007001200,Census Tract 12; Butte County; California,007,Butte,3926,19.2,15.2,9.5,0,0,1,1,Standard Preparedness
+06007001300,Census Tract 13; Butte County; California,007,Butte,3693,22.6,21.6,12.6,0,1,1,2,Elevated Concern
+06007001400,Census Tract 14; Butte County; California,007,Butte,6577,40.1,12.8,0.0,0,0,0,0,Standard Preparedness
+06007001500,Census Tract 15; Butte County; California,007,Butte,6156,38.5,12.1,1.7,0,0,0,0,Standard Preparedness
+06007001601,Census Tract 16.01; Butte County; California,007,Butte,2306,28.6,5.7,0.0,0,0,0,0,Standard Preparedness
+06007001602,Census Tract 16.02; Butte County; California,007,Butte,3330,39.4,10.8,3.4,0,0,0,0,Standard Preparedness
+06007001702,Census Tract 17.02; Butte County; California,007,Butte,3871,39.9,21.3,0.0,0,1,0,1,Standard Preparedness
+06007001703,Census Tract 17.03; Butte County; California,007,Butte,1539,30.6,20.9,0.0,0,0,0,0,Standard Preparedness
+06007001704,Census Tract 17.04; Butte County; California,007,Butte,3345,41.8,22.3,4.8,0,1,0,1,Standard Preparedness
+06007001800,Census Tract 18; Butte County; California,007,Butte,1338,64.3,9.2,3.2,1,0,0,1,Standard Preparedness
+06007001900,Census Tract 19; Butte County; California,007,Butte,1095,72.0,18.2,0.0,1,0,0,1,Standard Preparedness
+06007002000,Census Tract 20; Butte County; California,007,Butte,1498,60.8,7.0,3.3,1,0,0,1,Standard Preparedness
+06007002100,Census Tract 21; Butte County; California,007,Butte,1346,65.5,45.5,11.9,1,1,1,3,High Priority
+06007002200,Census Tract 22; Butte County; California,007,Butte,2213,54.6,10.4,4.0,1,0,0,1,Standard Preparedness
+06007002300,Census Tract 23; Butte County; California,007,Butte,1845,49.0,19.9,11.6,1,0,1,2,Elevated Concern
+06007002401,Census Tract 24.01; Butte County; California,007,Butte,919,48.0,21.2,11.6,1,1,1,3,High Priority
+06007002402,Census Tract 24.02; Butte County; California,007,Butte,2525,49.2,26.6,5.1,1,1,0,2,Elevated Concern
+06007002500,Census Tract 25; Butte County; California,007,Butte,5414,29.3,18.1,7.5,0,0,0,0,Standard Preparedness
+06007002601,Census Tract 26.01; Butte County; California,007,Butte,1963,57.6,33.7,5.4,1,1,0,2,Elevated Concern
+06007002602,Census Tract 26.02; Butte County; California,007,Butte,3918,50.8,23.3,1.1,1,1,0,2,Elevated Concern
+06007002700,Census Tract 27; Butte County; California,007,Butte,5898,26.6,17.4,9.8,0,0,1,1,Standard Preparedness
+06007002800,Census Tract 28; Butte County; California,007,Butte,4933,28.7,25.0,15.9,0,1,1,2,Elevated Concern
+06007002900,Census Tract 29; Butte County; California,007,Butte,3008,37.9,16.1,2.6,0,0,0,0,Standard Preparedness
+06007003001,Census Tract 30.01; Butte County; California,007,Butte,2363,37.9,25.6,14.3,0,1,1,2,Elevated Concern
+06007003002,Census Tract 30.02; Butte County; California,007,Butte,2763,30.2,16.9,12.1,0,0,1,1,Standard Preparedness
+06007003100,Census Tract 31; Butte County; California,007,Butte,4799,44.1,14.4,2.1,1,0,0,1,Standard Preparedness
+06007003200,Census Tract 32; Butte County; California,007,Butte,4172,43.9,22.7,7.5,1,1,0,2,Elevated Concern
+06007003300,Census Tract 33; Butte County; California,007,Butte,4388,56.7,21.1,4.3,1,0,0,1,Standard Preparedness
+06007003400,Census Tract 34; Butte County; California,007,Butte,2855,37.1,18.7,3.6,0,0,0,0,Standard Preparedness
+06007003501,Census Tract 35.01; Butte County; California,007,Butte,4123,28.6,12.9,1.3,0,0,0,0,Standard Preparedness
+06007003502,Census Tract 35.02; Butte County; California,007,Butte,4356,27.1,18.0,3.6,0,0,0,0,Standard Preparedness
+06007003600,Census Tract 36; Butte County; California,007,Butte,3763,36.3,18.9,5.9,0,0,0,0,Standard Preparedness
+06007003700,Census Tract 37; Butte County; California,007,Butte,5050,35.5,18.9,9.2,0,0,0,0,Standard Preparedness
+06061020104,Census Tract 201.04; Placer County; California,061,Placer,1349,35.4,9.1,5.2,0,0,1,1,Standard Preparedness
+06061020105,Census Tract 201.05; Placer County; California,061,Placer,1358,39.6,2.6,0.0,0,0,0,0,Standard Preparedness
+06061020106,Census Tract 201.06; Placer County; California,061,Placer,1086,52.5,5.2,0.0,1,0,0,1,Standard Preparedness
+06061020107,Census Tract 201.07; Placer County; California,061,Placer,2228,23.0,8.7,0.0,0,0,0,0,Standard Preparedness
+06061020200,Census Tract 202; Placer County; California,061,Placer,6972,40.4,14.0,4.6,0,0,0,0,Standard Preparedness
+06061020300,Census Tract 203; Placer County; California,061,Placer,4770,38.1,14.6,5.2,0,1,1,2,Elevated Concern
+06061020401,Census Tract 204.01; Placer County; California,061,Placer,2302,26.7,12.4,8.1,0,0,1,1,Standard Preparedness
+06061020402,Census Tract 204.02; Placer County; California,061,Placer,3456,43.3,9.6,4.8,0,0,0,0,Standard Preparedness
+06061020501,Census Tract 205.01; Placer County; California,061,Placer,2872,57.6,14.9,7.4,1,1,1,3,High Priority
+06061020502,Census Tract 205.02; Placer County; California,061,Placer,4416,54.6,15.5,2.5,1,1,0,2,Elevated Concern
+06061020601,Census Tract 206.01; Placer County; California,061,Placer,7193,48.8,10.1,1.1,1,0,0,1,Standard Preparedness
+06061020604,Census Tract 206.04; Placer County; California,061,Placer,6027,36.9,6.4,3.6,0,0,0,0,Standard Preparedness
+06061020605,Census Tract 206.05; Placer County; California,061,Placer,5971,43.4,7.1,6.1,0,0,1,1,Standard Preparedness
+06061020606,Census Tract 206.06; Placer County; California,061,Placer,4292,35.3,6.5,3.8,0,0,0,0,Standard Preparedness
+06061020607,Census Tract 206.07; Placer County; California,061,Placer,5918,29.6,11.4,0.5,0,0,0,0,Standard Preparedness
+06061020608,Census Tract 206.08; Placer County; California,061,Placer,3907,36.7,16.6,0.9,0,1,0,1,Standard Preparedness
+06061020710,Census Tract 207.10; Placer County; California,061,Placer,4585,36.9,10.4,2.7,0,0,0,0,Standard Preparedness
+06061020711,Census Tract 207.11; Placer County; California,061,Placer,4630,34.2,14.6,12.1,0,1,1,2,Elevated Concern
+06061020712,Census Tract 207.12; Placer County; California,061,Placer,3417,44.4,19.1,13.7,1,1,1,3,High Priority
+06061020713,Census Tract 207.13; Placer County; California,061,Placer,3216,45.4,15.8,12.7,1,1,1,3,High Priority
+06061020714,Census Tract 207.14; Placer County; California,061,Placer,3696,47.5,20.4,0.0,1,1,0,2,Elevated Concern
+06061020715,Census Tract 207.15; Placer County; California,061,Placer,3167,36.3,15.2,1.7,0,1,0,1,Standard Preparedness
+06061020717,Census Tract 207.17; Placer County; California,061,Placer,5284,22.7,6.0,4.4,0,0,0,0,Standard Preparedness
+06061020805,Census Tract 208.05; Placer County; California,061,Placer,4412,28.4,14.1,6.5,0,0,1,1,Standard Preparedness
+06061020806,Census Tract 208.06; Placer County; California,061,Placer,3934,37.6,15.4,5.0,0,1,0,1,Standard Preparedness
+06061020901,Census Tract 209.01; Placer County; California,061,Placer,2651,24.1,14.4,5.1,0,0,1,1,Standard Preparedness
+06061020908,Census Tract 209.08; Placer County; California,061,Placer,7771,21.3,11.8,4.8,0,0,0,0,Standard Preparedness
+06061021003,Census Tract 210.03; Placer County; California,061,Placer,7084,24.7,8.3,7.1,0,0,1,1,Standard Preparedness
+06061021034,Census Tract 210.34; Placer County; California,061,Placer,4398,23.8,7.7,0.6,0,0,0,0,Standard Preparedness
+06061021037,Census Tract 210.37; Placer County; California,061,Placer,2463,43.2,16.4,10.4,0,1,1,2,Elevated Concern
+06061021038,Census Tract 210.38; Placer County; California,061,Placer,7577,20.0,12.3,1.6,0,0,0,0,Standard Preparedness
+06061021039,Census Tract 210.39; Placer County; California,061,Placer,1522,88.9,33.0,1.8,1,1,0,2,Elevated Concern
+06061021040,Census Tract 210.40; Placer County; California,061,Placer,3304,91.7,35.7,6.8,1,1,1,3,High Priority
+06061021043,Census Tract 210.43; Placer County; California,061,Placer,4189,30.2,6.1,11.6,0,0,1,1,Standard Preparedness
+06061021044,Census Tract 210.44; Placer County; California,061,Placer,5730,25.7,7.4,2.8,0,0,0,0,Standard Preparedness
+06061021045,Census Tract 210.45; Placer County; California,061,Placer,3547,20.4,12.0,4.6,0,0,0,0,Standard Preparedness
+06061021046,Census Tract 210.46; Placer County; California,061,Placer,5243,33.8,9.0,9.1,0,0,1,1,Standard Preparedness
+06061021047,Census Tract 210.47; Placer County; California,061,Placer,4345,28.9,8.6,1.1,0,0,0,0,Standard Preparedness
+06061021048,Census Tract 210.48; Placer County; California,061,Placer,3614,16.6,4.1,3.8,0,0,0,0,Standard Preparedness
+06061021103,Census Tract 211.03; Placer County; California,061,Placer,5132,27.4,11.1,5.3,0,0,1,1,Standard Preparedness
+06061021106,Census Tract 211.06; Placer County; California,061,Placer,2300,45.7,10.1,5.6,1,0,1,2,Elevated Concern
+06061021108,Census Tract 211.08; Placer County; California,061,Placer,2758,31.0,15.3,4.2,0,1,0,1,Standard Preparedness
+06061021109,Census Tract 211.09; Placer County; California,061,Placer,6380,32.4,11.9,0.5,0,0,0,0,Standard Preparedness
+06061021122,Census Tract 211.22; Placer County; California,061,Placer,3465,45.1,9.8,1.6,1,0,0,1,Standard Preparedness
+06061021123,Census Tract 211.23; Placer County; California,061,Placer,6631,43.9,8.7,0.6,1,0,0,1,Standard Preparedness
+06061021128,Census Tract 211.28; Placer County; California,061,Placer,3483,24.4,8.4,1.3,0,0,0,0,Standard Preparedness
+06061021129,Census Tract 211.29; Placer County; California,061,Placer,3225,26.6,18.7,8.9,0,1,1,2,Elevated Concern
+06061021130,Census Tract 211.30; Placer County; California,061,Placer,2585,11.9,7.5,3.5,0,0,0,0,Standard Preparedness
+06061021131,Census Tract 211.31; Placer County; California,061,Placer,4918,53.2,16.6,9.7,1,1,1,3,High Priority
+06061021203,Census Tract 212.03; Placer County; California,061,Placer,7621,32.7,6.7,4.6,0,0,0,0,Standard Preparedness
+06061021204,Census Tract 212.04; Placer County; California,061,Placer,2692,49.6,9.8,0.5,1,0,0,1,Standard Preparedness
+06061021304,Census Tract 213.04; Placer County; California,061,Placer,6315,36.7,9.3,4.1,0,0,0,0,Standard Preparedness
+06061021323,Census Tract 213.23; Placer County; California,061,Placer,11610,15.2,6.5,2.3,0,0,0,0,Standard Preparedness
+06061021324,Census Tract 213.24; Placer County; California,061,Placer,7126,28.3,11.1,2.8,0,0,0,0,Standard Preparedness
+06061021325,Census Tract 213.25; Placer County; California,061,Placer,8836,39.2,10.1,0.6,0,0,0,0,Standard Preparedness
+06061021326,Census Tract 213.26; Placer County; California,061,Placer,4426,24.0,4.6,1.7,0,0,0,0,Standard Preparedness
+06061021327,Census Tract 213.27; Placer County; California,061,Placer,7014,27.1,10.7,5.0,0,0,0,0,Standard Preparedness
+06061021328,Census Tract 213.28; Placer County; California,061,Placer,11436,26.4,5.7,3.0,0,0,0,0,Standard Preparedness
+06061021401,Census Tract 214.01; Placer County; California,061,Placer,3732,22.5,11.5,4.8,0,0,0,0,Standard Preparedness
+06061021403,Census Tract 214.03; Placer County; California,061,Placer,6097,22.5,12.2,2.7,0,0,0,0,Standard Preparedness
+06061021501,Census Tract 215.01; Placer County; California,061,Placer,5367,54.4,21.3,3.0,1,1,0,2,Elevated Concern
+06061021502,Census Tract 215.02; Placer County; California,061,Placer,4112,40.7,11.8,2.5,0,0,0,0,Standard Preparedness
+06061021603,Census Tract 216.03; Placer County; California,061,Placer,4792,37.8,10.8,8.6,0,0,1,1,Standard Preparedness
+06061021604,Census Tract 216.04; Placer County; California,061,Placer,3701,56.7,9.7,3.9,1,0,0,1,Standard Preparedness
+06061021801,Census Tract 218.01; Placer County; California,061,Placer,4711,52.7,9.6,3.6,1,0,0,1,Standard Preparedness
+06061021802,Census Tract 218.02; Placer County; California,061,Placer,6226,44.7,15.0,3.3,1,1,0,2,Elevated Concern
+06061021901,Census Tract 219.01; Placer County; California,061,Placer,3781,39.7,12.1,3.4,0,0,0,0,Standard Preparedness
+06061021902,Census Tract 219.02; Placer County; California,061,Placer,4694,50.8,12.2,1.0,1,0,0,1,Standard Preparedness
+06061022002,Census Tract 220.02; Placer County; California,061,Placer,6784,40.8,14.3,2.8,0,0,0,0,Standard Preparedness
+06061022011,Census Tract 220.11; Placer County; California,061,Placer,1997,35.9,6.6,1.6,0,0,0,0,Standard Preparedness
+06061022013,Census Tract 220.13; Placer County; California,061,Placer,3001,39.1,16.3,4.5,0,1,0,1,Standard Preparedness
+06061022014,Census Tract 220.14; Placer County; California,061,Placer,1528,23.5,7.1,1.5,0,0,0,0,Standard Preparedness
+06061022100,Census Tract 221; Placer County; California,061,Placer,1021,25.2,3.3,0.0,0,0,0,0,Standard Preparedness
+06061022200,Census Tract 222; Placer County; California,061,Placer,806,35.6,11.0,0.0,0,0,0,0,Standard Preparedness
+06061022300,Census Tract 223; Placer County; California,061,Placer,579,43.8,10.7,0.0,0,0,0,0,Standard Preparedness
+06061022400,Census Tract 224; Placer County; California,061,Placer,4604,26.1,11.9,5.2,0,0,1,1,Standard Preparedness
+06061022500,Census Tract 225; Placer County; California,061,Placer,4729,42.8,11.2,0.0,0,0,0,0,Standard Preparedness
+06061022600,Census Tract 226; Placer County; California,061,Placer,4974,21.0,13.6,17.4,0,0,1,1,Standard Preparedness
+06061022800,Census Tract 228; Placer County; California,061,Placer,4724,21.4,8.6,3.4,0,0,0,0,Standard Preparedness
+06061022900,Census Tract 229; Placer County; California,061,Placer,5506,15.3,6.6,2.6,0,0,0,0,Standard Preparedness
+06061023000,Census Tract 230; Placer County; California,061,Placer,3935,14.6,7.4,0.0,0,0,0,0,Standard Preparedness
+06061023100,Census Tract 231; Placer County; California,061,Placer,8241,30.0,12.3,4.2,0,0,0,0,Standard Preparedness
+06061023200,Census Tract 232; Placer County; California,061,Placer,6401,17.6,7.4,0.8,0,0,0,0,Standard Preparedness
+06061023300,Census Tract 233; Placer County; California,061,Placer,6752,26.4,7.1,0.5,0,0,0,0,Standard Preparedness
+06061023400,Census Tract 234; Placer County; California,061,Placer,6220,34.2,11.3,1.4,0,0,0,0,Standard Preparedness
+06061023501,Census Tract 235.01; Placer County; California,061,Placer,1098,51.8,14.5,2.4,1,1,0,2,Elevated Concern
+06061023502,Census Tract 235.02; Placer County; California,061,Placer,6281,19.2,7.7,0.0,0,0,0,0,Standard Preparedness
+06061023600,Census Tract 236; Placer County; California,061,Placer,4521,95.1,23.9,2.7,1,1,0,2,Elevated Concern
+06061023700,Census Tract 237; Placer County; California,061,Placer,3318,91.5,34.6,1.3,1,1,0,2,Elevated Concern
+06061023800,Census Tract 238; Placer County; California,061,Placer,3234,89.3,21.7,1.7,1,1,0,2,Elevated Concern
+06061023900,Census Tract 239; Placer County; California,061,Placer,3119,33.7,12.7,1.9,0,0,0,0,Standard Preparedness
+06065030101,Census Tract 301.01; Riverside County; California,065,Riverside,1159,23.9,4.5,1.6,0,0,0,0,Standard Preparedness
+06065030103,Census Tract 301.03; Riverside County; California,065,Riverside,2278,23.4,8.4,0.3,0,0,0,0,Standard Preparedness
+06065030104,Census Tract 301.04; Riverside County; California,065,Riverside,6765,23.1,9.8,0.8,0,0,0,0,Standard Preparedness
+06065030200,Census Tract 302; Riverside County; California,065,Riverside,4561,27.0,14.4,1.9,0,0,0,0,Standard Preparedness
+06065030300,Census Tract 303; Riverside County; California,065,Riverside,4263,26.0,16.3,15.1,0,1,1,2,Elevated Concern
+06065030400,Census Tract 304; Riverside County; California,065,Riverside,6561,27.5,9.4,6.9,0,0,1,1,Standard Preparedness
+06065030501,Census Tract 305.01; Riverside County; California,065,Riverside,4909,18.3,10.4,11.4,0,0,1,1,Standard Preparedness
+06065030502,Census Tract 305.02; Riverside County; California,065,Riverside,1980,24.1,11.4,5.3,0,0,0,0,Standard Preparedness
+06065030503,Census Tract 305.03; Riverside County; California,065,Riverside,3929,7.8,9.8,8.8,0,0,1,1,Standard Preparedness
+06065030602,Census Tract 306.02; Riverside County; California,065,Riverside,3559,49.9,16.1,3.2,1,1,0,2,Elevated Concern
+06065030603,Census Tract 306.03; Riverside County; California,065,Riverside,3060,46.8,11.0,0.9,1,0,0,1,Standard Preparedness
+06065030604,Census Tract 306.04; Riverside County; California,065,Riverside,2759,58.3,13.2,4.9,1,0,0,1,Standard Preparedness
+06065030605,Census Tract 306.05; Riverside County; California,065,Riverside,2262,45.2,10.9,1.3,1,0,0,1,Standard Preparedness
+06065030700,Census Tract 307; Riverside County; California,065,Riverside,5935,22.2,12.8,2.0,0,0,0,0,Standard Preparedness
+06065030800,Census Tract 308; Riverside County; California,065,Riverside,7696,23.1,10.5,2.6,0,0,0,0,Standard Preparedness
+06065030900,Census Tract 309; Riverside County; California,065,Riverside,3196,36.1,10.8,1.7,0,0,0,0,Standard Preparedness
+06065031001,Census Tract 310.01; Riverside County; California,065,Riverside,5178,39.1,19.3,0.7,0,1,0,1,Standard Preparedness
+06065031002,Census Tract 310.02; Riverside County; California,065,Riverside,5285,34.5,18.0,3.3,0,1,0,1,Standard Preparedness
+06065031100,Census Tract 311; Riverside County; California,065,Riverside,5005,25.8,7.0,5.3,0,0,0,0,Standard Preparedness
+06065031200,Census Tract 312; Riverside County; California,065,Riverside,6362,29.4,9.5,1.7,0,0,0,0,Standard Preparedness
+06065031300,Census Tract 313; Riverside County; California,065,Riverside,2581,40.2,10.9,9.1,1,0,1,2,Elevated Concern
+06065031401,Census Tract 314.01; Riverside County; California,065,Riverside,7226,24.9,13.1,6.9,0,0,1,1,Standard Preparedness
+06065031402,Census Tract 314.02; Riverside County; California,065,Riverside,6783,34.7,11.5,9.4,0,0,1,1,Standard Preparedness
+06065031501,Census Tract 315.01; Riverside County; California,065,Riverside,7006,38.9,13.2,7.3,0,0,1,1,Standard Preparedness
+06065031503,Census Tract 315.03; Riverside County; California,065,Riverside,5035,32.0,15.4,6.7,0,1,1,2,Elevated Concern
+06065031504,Census Tract 315.04; Riverside County; California,065,Riverside,4603,28.1,11.0,8.5,0,0,1,1,Standard Preparedness
+06065031601,Census Tract 316.01; Riverside County; California,065,Riverside,4373,31.2,8.5,6.1,0,0,0,0,Standard Preparedness
+06065031602,Census Tract 316.02; Riverside County; California,065,Riverside,5029,30.3,9.9,3.6,0,0,0,0,Standard Preparedness
+06065031701,Census Tract 317.01; Riverside County; California,065,Riverside,3299,42.4,22.2,3.2,1,1,0,2,Elevated Concern
+06065031702,Census Tract 317.02; Riverside County; California,065,Riverside,2000,26.2,12.8,4.2,0,0,0,0,Standard Preparedness
+06065031703,Census Tract 317.03; Riverside County; California,065,Riverside,3707,34.8,8.8,1.1,0,0,0,0,Standard Preparedness
+06065031704,Census Tract 317.04; Riverside County; California,065,Riverside,4864,35.6,12.2,11.2,0,0,1,1,Standard Preparedness
+06065040101,Census Tract 401.01; Riverside County; California,065,Riverside,3947,22.8,10.0,2.0,0,0,0,0,Standard Preparedness
+06065040102,Census Tract 401.02; Riverside County; California,065,Riverside,6732,30.6,8.5,5.5,0,0,0,0,Standard Preparedness
+06065040201,Census Tract 402.01; Riverside County; California,065,Riverside,7462,28.0,7.1,0.0,0,0,0,0,Standard Preparedness
+06065040202,Census Tract 402.02; Riverside County; California,065,Riverside,2748,41.8,12.2,1.7,1,0,0,1,Standard Preparedness
+06065040203,Census Tract 402.03; Riverside County; California,065,Riverside,3322,21.8,13.1,3.5,0,0,0,0,Standard Preparedness
+06065040204,Census Tract 402.04; Riverside County; California,065,Riverside,3306,29.7,8.3,1.5,0,0,0,0,Standard Preparedness
+06065040302,Census Tract 403.02; Riverside County; California,065,Riverside,9683,39.1,10.4,0.5,0,0,0,0,Standard Preparedness
+06065040303,Census Tract 403.03; Riverside County; California,065,Riverside,3232,26.9,6.2,3.9,0,0,0,0,Standard Preparedness
+06065040304,Census Tract 403.04; Riverside County; California,065,Riverside,3531,28.4,13.6,17.1,0,0,1,1,Standard Preparedness
+06065040305,Census Tract 403.05; Riverside County; California,065,Riverside,2957,29.3,7.7,2.4,0,0,0,0,Standard Preparedness
+06065040402,Census Tract 404.02; Riverside County; California,065,Riverside,4544,28.9,6.7,2.4,0,0,0,0,Standard Preparedness
+06065040403,Census Tract 404.03; Riverside County; California,065,Riverside,5492,43.4,10.3,0.8,1,0,0,1,Standard Preparedness
+06065040404,Census Tract 404.04; Riverside County; California,065,Riverside,3045,26.7,7.7,3.8,0,0,0,0,Standard Preparedness
+06065040405,Census Tract 404.05; Riverside County; California,065,Riverside,5686,32.5,12.1,9.0,0,0,1,1,Standard Preparedness
+06065040501,Census Tract 405.01; Riverside County; California,065,Riverside,7787,33.0,9.3,6.0,0,0,0,0,Standard Preparedness
+06065040502,Census Tract 405.02; Riverside County; California,065,Riverside,6638,21.7,10.0,1.0,0,0,0,0,Standard Preparedness
+06065040503,Census Tract 405.03; Riverside County; California,065,Riverside,3751,53.0,22.8,6.6,1,1,1,3,High Priority
+06065040603,Census Tract 406.03; Riverside County; California,065,Riverside,2704,18.9,12.3,1.9,0,0,0,0,Standard Preparedness
+06065040604,Census Tract 406.04; Riverside County; California,065,Riverside,5465,39.8,9.5,4.1,0,0,0,0,Standard Preparedness
+06065040605,Census Tract 406.05; Riverside County; California,065,Riverside,2954,29.3,7.0,6.3,0,0,1,1,Standard Preparedness
+06065040606,Census Tract 406.06; Riverside County; California,065,Riverside,3838,26.1,7.3,3.4,0,0,0,0,Standard Preparedness
+06065040609,Census Tract 406.09; Riverside County; California,065,Riverside,17579,22.2,6.0,0.9,0,0,0,0,Standard Preparedness
+06065040611,Census Tract 406.11; Riverside County; California,065,Riverside,9208,25.2,8.0,1.6,0,0,0,0,Standard Preparedness
+06065040616,Census Tract 406.16; Riverside County; California,065,Riverside,10019,32.2,10.1,1.0,0,0,0,0,Standard Preparedness
+06065040617,Census Tract 406.17; Riverside County; California,065,Riverside,7569,39.7,7.3,0.0,0,0,0,0,Standard Preparedness
+06065040618,Census Tract 406.18; Riverside County; California,065,Riverside,9880,20.5,5.3,4.4,0,0,0,0,Standard Preparedness
+06065040619,Census Tract 406.19; Riverside County; California,065,Riverside,5178,20.1,4.9,1.1,0,0,0,0,Standard Preparedness
+06065040620,Census Tract 406.20; Riverside County; California,065,Riverside,7521,24.7,5.5,1.1,0,0,0,0,Standard Preparedness
+06065040621,Census Tract 406.21; Riverside County; California,065,Riverside,3923,34.8,4.5,1.3,0,0,0,0,Standard Preparedness
+06065040622,Census Tract 406.22; Riverside County; California,065,Riverside,6722,18.8,6.9,2.7,0,0,0,0,Standard Preparedness
+06065040701,Census Tract 407.01; Riverside County; California,065,Riverside,2700,47.2,11.4,0.0,1,0,0,1,Standard Preparedness
+06065040702,Census Tract 407.02; Riverside County; California,065,Riverside,2522,34.4,8.1,3.2,0,0,0,0,Standard Preparedness
+06065040703,Census Tract 407.03; Riverside County; California,065,Riverside,2754,32.5,9.6,0.0,0,0,0,0,Standard Preparedness
+06065040806,Census Tract 408.06; Riverside County; California,065,Riverside,2710,30.2,13.9,1.7,0,0,0,0,Standard Preparedness
+06065040807,Census Tract 408.07; Riverside County; California,065,Riverside,3442,25.9,10.3,1.2,0,0,0,0,Standard Preparedness
+06065040808,Census Tract 408.08; Riverside County; California,065,Riverside,7166,30.7,11.2,7.3,0,0,1,1,Standard Preparedness
+06065040809,Census Tract 408.09; Riverside County; California,065,Riverside,3333,32.1,11.1,2.8,0,0,0,0,Standard Preparedness
+06065040812,Census Tract 408.12; Riverside County; California,065,Riverside,3701,33.6,10.8,3.5,0,0,0,0,Standard Preparedness
+06065040813,Census Tract 408.13; Riverside County; California,065,Riverside,5554,35.0,12.0,1.7,0,0,0,0,Standard Preparedness
+06065040814,Census Tract 408.14; Riverside County; California,065,Riverside,4798,25.7,4.6,0.0,0,0,0,0,Standard Preparedness
+06065040815,Census Tract 408.15; Riverside County; California,065,Riverside,3944,27.5,9.2,0.0,0,0,0,0,Standard Preparedness
+06065040816,Census Tract 408.16; Riverside County; California,065,Riverside,2583,28.4,14.6,6.6,0,0,1,1,Standard Preparedness
+06065040821,Census Tract 408.21; Riverside County; California,065,Riverside,5480,19.8,9.3,1.7,0,0,0,0,Standard Preparedness
+06065040901,Census Tract 409.01; Riverside County; California,065,Riverside,8485,28.2,7.9,5.4,0,0,0,0,Standard Preparedness
+06065040902,Census Tract 409.02; Riverside County; California,065,Riverside,5231,36.3,17.2,4.2,0,1,0,1,Standard Preparedness
+06065040903,Census Tract 409.03; Riverside County; California,065,Riverside,2945,32.1,14.3,3.1,0,0,0,0,Standard Preparedness
+06065040904,Census Tract 409.04; Riverside County; California,065,Riverside,4031,25.5,10.8,3.4,0,0,0,0,Standard Preparedness
+06065041001,Census Tract 410.01; Riverside County; California,065,Riverside,2722,24.8,8.4,6.5,0,0,1,1,Standard Preparedness
+06065041002,Census Tract 410.02; Riverside County; California,065,Riverside,3093,34.3,9.1,3.4,0,0,0,0,Standard Preparedness
+06065041003,Census Tract 410.03; Riverside County; California,065,Riverside,2651,39.2,11.9,1.7,0,0,0,0,Standard Preparedness
+06065041004,Census Tract 410.04; Riverside County; California,065,Riverside,4344,29.0,10.3,2.2,0,0,0,0,Standard Preparedness
+06065041101,Census Tract 411.01; Riverside County; California,065,Riverside,5452,15.8,7.2,1.8,0,0,0,0,Standard Preparedness
+06065041102,Census Tract 411.02; Riverside County; California,065,Riverside,5139,20.9,7.9,1.6,0,0,0,0,Standard Preparedness
+06065041201,Census Tract 412.01; Riverside County; California,065,Riverside,3667,31.2,17.2,7.7,0,1,1,2,Elevated Concern
+06065041202,Census Tract 412.02; Riverside County; California,065,Riverside,4493,35.4,10.8,1.7,0,0,0,0,Standard Preparedness
+06065041203,Census Tract 412.03; Riverside County; California,065,Riverside,3892,23.2,8.5,1.8,0,0,0,0,Standard Preparedness
+06065041301,Census Tract 413.01; Riverside County; California,065,Riverside,3724,22.4,6.8,0.5,0,0,0,0,Standard Preparedness
+06065041302,Census Tract 413.02; Riverside County; California,065,Riverside,4170,25.1,10.6,5.1,0,0,0,0,Standard Preparedness
+06065041403,Census Tract 414.03; Riverside County; California,065,Riverside,4368,43.2,8.7,6.1,1,0,0,1,Standard Preparedness
+06065041404,Census Tract 414.04; Riverside County; California,065,Riverside,3821,32.5,7.3,2.1,0,0,0,0,Standard Preparedness
+06065041405,Census Tract 414.05; Riverside County; California,065,Riverside,5519,19.0,9.0,2.6,0,0,0,0,Standard Preparedness
+06065041406,Census Tract 414.06; Riverside County; California,065,Riverside,5990,23.1,8.6,0.2,0,0,0,0,Standard Preparedness
+06065041407,Census Tract 414.07; Riverside County; California,065,Riverside,5889,30.3,11.6,5.6,0,0,0,0,Standard Preparedness
+06065041408,Census Tract 414.08; Riverside County; California,065,Riverside,4441,19.6,11.3,0.0,0,0,0,0,Standard Preparedness
+06065041410,Census Tract 414.10; Riverside County; California,065,Riverside,2720,25.9,8.1,0.9,0,0,0,0,Standard Preparedness
+06065041411,Census Tract 414.11; Riverside County; California,065,Riverside,2791,48.9,18.2,3.6,1,1,0,2,Elevated Concern
+06065041412,Census Tract 414.12; Riverside County; California,065,Riverside,5007,44.3,16.6,2.6,1,1,0,2,Elevated Concern
+06065041413,Census Tract 414.13; Riverside County; California,065,Riverside,6174,22.8,4.7,3.0,0,0,0,0,Standard Preparedness
+06065041414,Census Tract 414.14; Riverside County; California,065,Riverside,4037,31.4,10.2,0.0,0,0,0,0,Standard Preparedness
+06065041415,Census Tract 414.15; Riverside County; California,065,Riverside,4765,27.7,10.1,1.5,0,0,0,0,Standard Preparedness
+06065041500,Census Tract 415; Riverside County; California,065,Riverside,3811,20.4,11.1,5.5,0,0,0,0,Standard Preparedness
+06065041601,Census Tract 416.01; Riverside County; California,065,Riverside,2127,25.7,12.1,13.0,0,0,1,1,Standard Preparedness
+06065041602,Census Tract 416.02; Riverside County; California,065,Riverside,3721,5.2,4.2,5.9,0,0,0,0,Standard Preparedness
+06065041702,Census Tract 417.02; Riverside County; California,065,Riverside,4981,45.1,11.0,0.0,1,0,0,1,Standard Preparedness
+06065041703,Census Tract 417.03; Riverside County; California,065,Riverside,5897,18.7,7.1,6.7,0,0,1,1,Standard Preparedness
+06065041704,Census Tract 417.04; Riverside County; California,065,Riverside,3285,25.8,12.7,5.3,0,0,0,0,Standard Preparedness
+06065041803,Census Tract 418.03; Riverside County; California,065,Riverside,6107,26.9,10.7,1.6,0,0,0,0,Standard Preparedness
+06065041804,Census Tract 418.04; Riverside County; California,065,Riverside,5076,32.5,9.0,0.0,0,0,0,0,Standard Preparedness
+06065041805,Census Tract 418.05; Riverside County; California,065,Riverside,5706,23.6,6.1,0.3,0,0,0,0,Standard Preparedness
+06065041806,Census Tract 418.06; Riverside County; California,065,Riverside,4879,24.8,8.8,0.9,0,0,0,0,Standard Preparedness
+06065041807,Census Tract 418.07; Riverside County; California,065,Riverside,2523,27.2,10.6,0.0,0,0,0,0,Standard Preparedness
+06065041808,Census Tract 418.08; Riverside County; California,065,Riverside,7272,39.7,11.2,6.1,0,0,0,0,Standard Preparedness
+06065041809,Census Tract 418.09; Riverside County; California,065,Riverside,5194,33.2,16.6,9.7,0,1,1,2,Elevated Concern
+06065041810,Census Tract 418.10; Riverside County; California,065,Riverside,5831,27.2,5.9,3.7,0,0,0,0,Standard Preparedness
+06065041812,Census Tract 418.12; Riverside County; California,065,Riverside,3311,38.8,13.1,7.7,0,0,1,1,Standard Preparedness
+06065041813,Census Tract 418.13; Riverside County; California,065,Riverside,7227,33.7,11.3,9.9,0,0,1,1,Standard Preparedness
+06065041904,Census Tract 419.04; Riverside County; California,065,Riverside,4816,35.1,10.4,2.5,0,0,0,0,Standard Preparedness
+06065041905,Census Tract 419.05; Riverside County; California,065,Riverside,2956,21.9,6.4,14.9,0,0,1,1,Standard Preparedness
+06065041906,Census Tract 419.06; Riverside County; California,065,Riverside,6283,27.8,9.3,0.6,0,0,0,0,Standard Preparedness
+06065041909,Census Tract 419.09; Riverside County; California,065,Riverside,5569,32.0,12.1,1.8,0,0,0,0,Standard Preparedness
+06065041910,Census Tract 419.10; Riverside County; California,065,Riverside,7477,38.1,10.2,2.4,0,0,0,0,Standard Preparedness
+06065041912,Census Tract 419.12; Riverside County; California,065,Riverside,6298,17.3,6.3,0.0,0,0,0,0,Standard Preparedness
+06065041913,Census Tract 419.13; Riverside County; California,065,Riverside,5385,24.1,3.9,0.0,0,0,0,0,Standard Preparedness
+06065041914,Census Tract 419.14; Riverside County; California,065,Riverside,6160,27.1,5.1,0.0,0,0,0,0,Standard Preparedness
+06065041915,Census Tract 419.15; Riverside County; California,065,Riverside,9237,41.6,12.3,8.8,1,0,1,2,Elevated Concern
+06065042003,Census Tract 420.03; Riverside County; California,065,Riverside,6460,38.4,8.6,5.9,0,0,0,0,Standard Preparedness
+06065042004,Census Tract 420.04; Riverside County; California,065,Riverside,4677,59.1,12.7,6.6,1,0,1,2,Elevated Concern
+06065042005,Census Tract 420.05; Riverside County; California,065,Riverside,5331,31.6,9.6,3.1,0,0,0,0,Standard Preparedness
+06065042007,Census Tract 420.07; Riverside County; California,065,Riverside,6394,42.5,14.0,3.5,1,0,0,1,Standard Preparedness
+06065042008,Census Tract 420.08; Riverside County; California,065,Riverside,8271,36.9,12.1,1.0,0,0,0,0,Standard Preparedness
+06065042009,Census Tract 420.09; Riverside County; California,065,Riverside,7559,29.8,12.5,0.3,0,0,0,0,Standard Preparedness
+06065042010,Census Tract 420.10; Riverside County; California,065,Riverside,6053,31.0,13.2,1.8,0,0,0,0,Standard Preparedness
+06065042012,Census Tract 420.12; Riverside County; California,065,Riverside,6786,20.4,9.1,1.6,0,0,0,0,Standard Preparedness
+06065042015,Census Tract 420.15; Riverside County; California,065,Riverside,5968,20.0,6.8,0.0,0,0,0,0,Standard Preparedness
+06065042016,Census Tract 420.16; Riverside County; California,065,Riverside,2179,40.3,15.2,1.0,1,1,0,2,Elevated Concern
+06065042017,Census Tract 420.17; Riverside County; California,065,Riverside,3955,29.3,10.8,0.8,0,0,0,0,Standard Preparedness
+06065042018,Census Tract 420.18; Riverside County; California,065,Riverside,6340,34.1,6.1,3.4,0,0,0,0,Standard Preparedness
+06065042206,Census Tract 422.06; Riverside County; California,065,Riverside,6130,21.3,7.7,5.3,0,0,0,0,Standard Preparedness
+06065042207,Census Tract 422.07; Riverside County; California,065,Riverside,2716,23.9,14.7,4.0,0,0,0,0,Standard Preparedness
+06065042208,Census Tract 422.08; Riverside County; California,065,Riverside,2921,47.3,12.2,1.7,1,0,0,1,Standard Preparedness
+06065042209,Census Tract 422.09; Riverside County; California,065,Riverside,4590,18.1,18.5,8.4,0,1,1,2,Elevated Concern
+06065042210,Census Tract 422.10; Riverside County; California,065,Riverside,5441,6.2,8.6,11.8,0,0,1,1,Standard Preparedness
+06065042212,Census Tract 422.12; Riverside County; California,065,Riverside,8237,32.0,10.1,3.8,0,0,0,0,Standard Preparedness
+06065042213,Census Tract 422.13; Riverside County; California,065,Riverside,3744,32.5,8.9,2.6,0,0,0,0,Standard Preparedness
+06065042214,Census Tract 422.14; Riverside County; California,065,Riverside,6630,35.5,8.0,4.6,0,0,0,0,Standard Preparedness
+06065042217,Census Tract 422.17; Riverside County; California,065,Riverside,5080,29.0,10.0,0.9,0,0,0,0,Standard Preparedness
+06065042300,Census Tract 423; Riverside County; California,065,Riverside,10253,25.7,6.7,1.2,0,0,0,0,Standard Preparedness
+06065042401,Census Tract 424.01; Riverside County; California,065,Riverside,2124,62.6,11.2,1.4,1,0,0,1,Standard Preparedness
+06065042402,Census Tract 424.02; Riverside County; California,065,Riverside,5627,31.0,8.0,2.8,0,0,0,0,Standard Preparedness
+06065042403,Census Tract 424.03; Riverside County; California,065,Riverside,5813,37.6,11.6,0.0,0,0,0,0,Standard Preparedness
+06065042404,Census Tract 424.04; Riverside County; California,065,Riverside,2604,28.1,11.0,0.8,0,0,0,0,Standard Preparedness
+06065042405,Census Tract 424.05; Riverside County; California,065,Riverside,4944,10.0,8.5,8.7,0,0,1,1,Standard Preparedness
+06065042406,Census Tract 424.06; Riverside County; California,065,Riverside,4869,35.9,9.8,4.9,0,0,0,0,Standard Preparedness
+06065042407,Census Tract 424.07; Riverside County; California,065,Riverside,3483,39.8,9.4,0.0,0,0,0,0,Standard Preparedness
+06065042408,Census Tract 424.08; Riverside County; California,065,Riverside,3149,46.6,11.3,0.0,1,0,0,1,Standard Preparedness
+06065042409,Census Tract 424.09; Riverside County; California,065,Riverside,3882,17.9,10.6,0.4,0,0,0,0,Standard Preparedness
+06065042410,Census Tract 424.10; Riverside County; California,065,Riverside,6072,28.2,12.5,0.0,0,0,0,0,Standard Preparedness
+06065042411,Census Tract 424.11; Riverside County; California,065,Riverside,2595,26.4,7.5,0.9,0,0,0,0,Standard Preparedness
+06065042412,Census Tract 424.12; Riverside County; California,065,Riverside,4307,38.7,16.7,2.5,0,1,0,1,Standard Preparedness
+06065042505,Census Tract 425.05; Riverside County; California,065,Riverside,3433,18.8,9.0,12.9,0,0,1,1,Standard Preparedness
+06065042507,Census Tract 425.07; Riverside County; California,065,Riverside,5692,29.3,8.6,0.9,0,0,0,0,Standard Preparedness
+06065042508,Census Tract 425.08; Riverside County; California,065,Riverside,6353,13.2,7.4,1.0,0,0,0,0,Standard Preparedness
+06065042509,Census Tract 425.09; Riverside County; California,065,Riverside,3173,28.3,9.9,4.3,0,0,0,0,Standard Preparedness
+06065042510,Census Tract 425.10; Riverside County; California,065,Riverside,5205,31.7,12.3,4.8,0,0,0,0,Standard Preparedness
+06065042511,Census Tract 425.11; Riverside County; California,065,Riverside,4298,25.4,9.2,7.2,0,0,1,1,Standard Preparedness
+06065042512,Census Tract 425.12; Riverside County; California,065,Riverside,3550,11.4,9.6,1.6,0,0,0,0,Standard Preparedness
+06065042513,Census Tract 425.13; Riverside County; California,065,Riverside,2963,35.4,15.9,4.8,0,1,0,1,Standard Preparedness
+06065042514,Census Tract 425.14; Riverside County; California,065,Riverside,3426,23.3,12.7,4.3,0,0,0,0,Standard Preparedness
+06065042515,Census Tract 425.15; Riverside County; California,065,Riverside,3584,20.3,12.5,14.2,0,0,1,1,Standard Preparedness
+06065042516,Census Tract 425.16; Riverside County; California,065,Riverside,3886,20.3,11.4,2.0,0,0,0,0,Standard Preparedness
+06065042517,Census Tract 425.17; Riverside County; California,065,Riverside,3155,32.9,11.1,1.6,0,0,0,0,Standard Preparedness
+06065042518,Census Tract 425.18; Riverside County; California,065,Riverside,3349,31.3,9.1,4.3,0,0,0,0,Standard Preparedness
+06065042519,Census Tract 425.19; Riverside County; California,065,Riverside,1813,20.3,15.1,4.0,0,0,0,0,Standard Preparedness
+06065042520,Census Tract 425.20; Riverside County; California,065,Riverside,5054,30.7,6.2,9.5,0,0,1,1,Standard Preparedness
+06065042521,Census Tract 425.21; Riverside County; California,065,Riverside,5053,25.9,10.2,2.2,0,0,0,0,Standard Preparedness
+06065042522,Census Tract 425.22; Riverside County; California,065,Riverside,3844,22.8,8.1,1.4,0,0,0,0,Standard Preparedness
+06065042523,Census Tract 425.23; Riverside County; California,065,Riverside,5236,20.5,5.5,0.0,0,0,0,0,Standard Preparedness
+06065042621,Census Tract 426.21; Riverside County; California,065,Riverside,8240,32.4,9.5,2.6,0,0,0,0,Standard Preparedness
+06065042622,Census Tract 426.22; Riverside County; California,065,Riverside,5204,19.1,7.4,2.3,0,0,0,0,Standard Preparedness
+06065042623,Census Tract 426.23; Riverside County; California,065,Riverside,3938,37.2,12.5,0.0,0,0,0,0,Standard Preparedness
+06065042624,Census Tract 426.24; Riverside County; California,065,Riverside,5131,20.9,9.5,5.1,0,0,0,0,Standard Preparedness
+06065042625,Census Tract 426.25; Riverside County; California,065,Riverside,6439,28.9,10.3,2.3,0,0,0,0,Standard Preparedness
+06065042626,Census Tract 426.26; Riverside County; California,065,Riverside,9563,17.9,6.1,6.3,0,0,1,1,Standard Preparedness
+06065042627,Census Tract 426.27; Riverside County; California,065,Riverside,4868,20.4,14.7,0.7,0,0,0,0,Standard Preparedness
+06065042628,Census Tract 426.28; Riverside County; California,065,Riverside,4662,35.1,13.0,7.9,0,0,1,1,Standard Preparedness
+06065042629,Census Tract 426.29; Riverside County; California,065,Riverside,6585,16.1,12.9,0.0,0,0,0,0,Standard Preparedness
+06065042630,Census Tract 426.30; Riverside County; California,065,Riverside,7172,20.0,11.4,3.9,0,0,0,0,Standard Preparedness
+06065042631,Census Tract 426.31; Riverside County; California,065,Riverside,5230,27.3,8.5,2.9,0,0,0,0,Standard Preparedness
+06065042632,Census Tract 426.32; Riverside County; California,065,Riverside,3379,37.4,8.7,1.8,0,0,0,0,Standard Preparedness
+06065042708,Census Tract 427.08; Riverside County; California,065,Riverside,5805,22.9,12.1,3.0,0,0,0,0,Standard Preparedness
+06065042709,Census Tract 427.09; Riverside County; California,065,Riverside,5032,57.1,14.8,5.8,1,0,0,1,Standard Preparedness
+06065042711,Census Tract 427.11; Riverside County; California,065,Riverside,3815,83.8,40.8,13.0,1,1,1,3,High Priority
+06065042714,Census Tract 427.14; Riverside County; California,065,Riverside,2971,46.0,17.8,4.7,1,1,0,2,Elevated Concern
+06065042716,Census Tract 427.16; Riverside County; California,065,Riverside,6031,39.2,8.9,2.0,0,0,0,0,Standard Preparedness
+06065042717,Census Tract 427.17; Riverside County; California,065,Riverside,6261,22.0,11.5,2.7,0,0,0,0,Standard Preparedness
+06065042719,Census Tract 427.19; Riverside County; California,065,Riverside,5461,22.0,9.7,8.9,0,0,1,1,Standard Preparedness
+06065042720,Census Tract 427.20; Riverside County; California,065,Riverside,4992,26.7,12.7,6.5,0,0,1,1,Standard Preparedness
+06065042723,Census Tract 427.23; Riverside County; California,065,Riverside,7270,37.9,17.6,2.0,0,1,0,1,Standard Preparedness
+06065042724,Census Tract 427.24; Riverside County; California,065,Riverside,5531,18.5,10.0,0.7,0,0,0,0,Standard Preparedness
+06065042726,Census Tract 427.26; Riverside County; California,065,Riverside,12227,19.2,11.4,0.8,0,0,0,0,Standard Preparedness
+06065042728,Census Tract 427.28; Riverside County; California,065,Riverside,2560,39.9,10.5,2.6,0,0,0,0,Standard Preparedness
+06065042730,Census Tract 427.30; Riverside County; California,065,Riverside,5872,39.0,14.6,2.3,0,0,0,0,Standard Preparedness
+06065042731,Census Tract 427.31; Riverside County; California,065,Riverside,9511,33.0,16.3,1.8,0,1,0,1,Standard Preparedness
+06065042732,Census Tract 427.32; Riverside County; California,065,Riverside,7013,21.8,12.1,4.1,0,0,0,0,Standard Preparedness
+06065042733,Census Tract 427.33; Riverside County; California,065,Riverside,14516,22.7,11.1,3.4,0,0,0,0,Standard Preparedness
+06065042737,Census Tract 427.37; Riverside County; California,065,Riverside,4535,20.5,5.8,0.6,0,0,0,0,Standard Preparedness
+06065042738,Census Tract 427.38; Riverside County; California,065,Riverside,8470,19.6,6.2,7.5,0,0,1,1,Standard Preparedness
+06065042739,Census Tract 427.39; Riverside County; California,065,Riverside,9120,28.0,11.5,1.3,0,0,0,0,Standard Preparedness
+06065042740,Census Tract 427.40; Riverside County; California,065,Riverside,2024,76.2,35.9,10.0,1,1,1,3,High Priority
+06065042741,Census Tract 427.41; Riverside County; California,065,Riverside,2403,82.5,39.4,12.3,1,1,1,3,High Priority
+06065042742,Census Tract 427.42; Riverside County; California,065,Riverside,7241,20.9,9.3,0.7,0,0,0,0,Standard Preparedness
+06065042743,Census Tract 427.43; Riverside County; California,065,Riverside,4816,23.0,10.5,0.0,0,0,0,0,Standard Preparedness
+06065042744,Census Tract 427.44; Riverside County; California,065,Riverside,4226,42.0,8.6,8.0,1,0,1,2,Elevated Concern
+06065042745,Census Tract 427.45; Riverside County; California,065,Riverside,7291,53.0,16.7,1.7,1,1,0,2,Elevated Concern
+06065042746,Census Tract 427.46; Riverside County; California,065,Riverside,4263,18.1,4.6,0.0,0,0,0,0,Standard Preparedness
+06065042747,Census Tract 427.47; Riverside County; California,065,Riverside,4668,25.8,7.9,7.6,0,0,1,1,Standard Preparedness
+06065042748,Census Tract 427.48; Riverside County; California,065,Riverside,6104,29.1,12.1,3.0,0,0,0,0,Standard Preparedness
+06065042749,Census Tract 427.49; Riverside County; California,065,Riverside,4638,21.3,6.9,0.0,0,0,0,0,Standard Preparedness
+06065042750,Census Tract 427.50; Riverside County; California,065,Riverside,3595,32.8,12.2,0.8,0,0,0,0,Standard Preparedness
+06065042751,Census Tract 427.51; Riverside County; California,065,Riverside,5848,46.7,8.1,16.4,1,0,1,2,Elevated Concern
+06065042752,Census Tract 427.52; Riverside County; California,065,Riverside,4574,69.9,19.8,3.9,1,1,0,2,Elevated Concern
+06065042801,Census Tract 428.01; Riverside County; California,065,Riverside,4623,17.6,11.5,13.0,0,0,1,1,Standard Preparedness
+06065042802,Census Tract 428.02; Riverside County; California,065,Riverside,6151,15.7,8.0,6.8,0,0,1,1,Standard Preparedness
+06065042902,Census Tract 429.02; Riverside County; California,065,Riverside,4701,26.4,16.9,8.0,0,1,1,2,Elevated Concern
+06065042903,Census Tract 429.03; Riverside County; California,065,Riverside,5160,38.4,18.9,9.3,0,1,1,2,Elevated Concern
+06065042905,Census Tract 429.05; Riverside County; California,065,Riverside,4893,25.1,12.5,11.4,0,0,1,1,Standard Preparedness
+06065042906,Census Tract 429.06; Riverside County; California,065,Riverside,5776,28.4,10.5,0.0,0,0,0,0,Standard Preparedness
+06065042907,Census Tract 429.07; Riverside County; California,065,Riverside,3619,29.1,10.2,2.8,0,0,0,0,Standard Preparedness
+06065042908,Census Tract 429.08; Riverside County; California,065,Riverside,3951,33.5,11.2,15.8,0,0,1,1,Standard Preparedness
+06065043001,Census Tract 430.01; Riverside County; California,065,Riverside,13010,22.9,8.4,4.2,0,0,0,0,Standard Preparedness
+06065043003,Census Tract 430.03; Riverside County; California,065,Riverside,7297,19.2,14.4,4.1,0,0,0,0,Standard Preparedness
+06065043005,Census Tract 430.05; Riverside County; California,065,Riverside,5740,35.2,10.2,3.1,0,0,0,0,Standard Preparedness
+06065043006,Census Tract 430.06; Riverside County; California,065,Riverside,4729,26.1,15.3,8.2,0,1,1,2,Elevated Concern
+06065043007,Census Tract 430.07; Riverside County; California,065,Riverside,7563,16.8,9.8,2.5,0,0,0,0,Standard Preparedness
+06065043008,Census Tract 430.08; Riverside County; California,065,Riverside,5828,37.3,9.5,5.3,0,0,0,0,Standard Preparedness
+06065043009,Census Tract 430.09; Riverside County; California,065,Riverside,5734,15.2,4.1,1.1,0,0,0,0,Standard Preparedness
+06065043010,Census Tract 430.10; Riverside County; California,065,Riverside,5310,21.3,11.8,4.2,0,0,0,0,Standard Preparedness
+06065043201,Census Tract 432.01; Riverside County; California,065,Riverside,3881,33.7,7.0,1.9,0,0,0,0,Standard Preparedness
+06065043202,Census Tract 432.02; Riverside County; California,065,Riverside,6083,36.7,10.6,0.7,0,0,0,0,Standard Preparedness
+06065043203,Census Tract 432.03; Riverside County; California,065,Riverside,2679,44.7,11.9,5.6,1,0,0,1,Standard Preparedness
+06065043204,Census Tract 432.04; Riverside County; California,065,Riverside,8904,34.1,9.8,3.5,0,0,0,0,Standard Preparedness
+06065043205,Census Tract 432.05; Riverside County; California,065,Riverside,5363,13.8,9.1,0.0,0,0,0,0,Standard Preparedness
+06065043206,Census Tract 432.06; Riverside County; California,065,Riverside,8491,25.5,7.8,5.5,0,0,0,0,Standard Preparedness
+06065043207,Census Tract 432.07; Riverside County; California,065,Riverside,4540,22.5,6.9,2.0,0,0,0,0,Standard Preparedness
+06065043208,Census Tract 432.08; Riverside County; California,065,Riverside,4698,27.4,17.9,0.0,0,1,0,1,Standard Preparedness
+06065043209,Census Tract 432.09; Riverside County; California,065,Riverside,3431,36.7,12.5,6.4,0,0,1,1,Standard Preparedness
+06065043210,Census Tract 432.10; Riverside County; California,065,Riverside,4203,57.1,19.7,1.9,1,1,0,2,Elevated Concern
+06065043211,Census Tract 432.11; Riverside County; California,065,Riverside,7083,23.2,9.8,0.8,0,0,0,0,Standard Preparedness
+06065043216,Census Tract 432.16; Riverside County; California,065,Riverside,7101,27.2,11.4,1.2,0,0,0,0,Standard Preparedness
+06065043217,Census Tract 432.17; Riverside County; California,065,Riverside,3149,32.0,8.1,1.1,0,0,0,0,Standard Preparedness
+06065043218,Census Tract 432.18; Riverside County; California,065,Riverside,5347,41.8,11.9,3.1,1,0,0,1,Standard Preparedness
+06065043220,Census Tract 432.20; Riverside County; California,065,Riverside,4842,18.8,13.4,4.7,0,0,0,0,Standard Preparedness
+06065043222,Census Tract 432.22; Riverside County; California,065,Riverside,5391,38.7,8.2,1.9,0,0,0,0,Standard Preparedness
+06065043227,Census Tract 432.27; Riverside County; California,065,Riverside,8120,22.0,11.9,0.4,0,0,0,0,Standard Preparedness
+06065043228,Census Tract 432.28; Riverside County; California,065,Riverside,4773,15.9,6.3,3.5,0,0,0,0,Standard Preparedness
+06065043229,Census Tract 432.29; Riverside County; California,065,Riverside,4659,71.7,21.0,8.0,1,1,1,3,High Priority
+06065043235,Census Tract 432.35; Riverside County; California,065,Riverside,12852,32.0,10.3,0.4,0,0,0,0,Standard Preparedness
+06065043246,Census Tract 432.46; Riverside County; California,065,Riverside,6214,26.2,6.4,1.3,0,0,0,0,Standard Preparedness
+06065043248,Census Tract 432.48; Riverside County; California,065,Riverside,4097,28.6,8.1,2.8,0,0,0,0,Standard Preparedness
+06065043252,Census Tract 432.52; Riverside County; California,065,Riverside,9926,24.3,6.8,0.0,0,0,0,0,Standard Preparedness
+06065043254,Census Tract 432.54; Riverside County; California,065,Riverside,5423,33.7,9.7,0.6,0,0,0,0,Standard Preparedness
+06065043256,Census Tract 432.56; Riverside County; California,065,Riverside,3347,21.0,6.6,4.0,0,0,0,0,Standard Preparedness
+06065043262,Census Tract 432.62; Riverside County; California,065,Riverside,4702,41.9,9.9,1.2,1,0,0,1,Standard Preparedness
+06065043264,Census Tract 432.64; Riverside County; California,065,Riverside,8040,25.4,11.8,0.0,0,0,0,0,Standard Preparedness
+06065043265,Census Tract 432.65; Riverside County; California,065,Riverside,7365,18.3,8.2,2.2,0,0,0,0,Standard Preparedness
+06065043266,Census Tract 432.66; Riverside County; California,065,Riverside,5459,17.4,10.6,3.0,0,0,0,0,Standard Preparedness
+06065043267,Census Tract 432.67; Riverside County; California,065,Riverside,5623,43.8,10.7,4.1,1,0,0,1,Standard Preparedness
+06065043270,Census Tract 432.70; Riverside County; California,065,Riverside,5682,42.8,15.3,15.4,1,1,1,3,High Priority
+06065043271,Census Tract 432.71; Riverside County; California,065,Riverside,5170,34.3,10.6,4.8,0,0,0,0,Standard Preparedness
+06065043272,Census Tract 432.72; Riverside County; California,065,Riverside,5399,47.1,15.4,4.9,1,1,0,2,Elevated Concern
+06065043274,Census Tract 432.74; Riverside County; California,065,Riverside,2390,21.5,8.5,6.9,0,0,1,1,Standard Preparedness
+06065043276,Census Tract 432.76; Riverside County; California,065,Riverside,3515,29.3,6.8,1.4,0,0,0,0,Standard Preparedness
+06065043278,Census Tract 432.78; Riverside County; California,065,Riverside,6597,21.1,7.6,0.0,0,0,0,0,Standard Preparedness
+06065043279,Census Tract 432.79; Riverside County; California,065,Riverside,5040,38.1,13.7,0.0,0,0,0,0,Standard Preparedness
+06065043292,Census Tract 432.92; Riverside County; California,065,Riverside,4241,32.9,11.4,2.4,0,0,0,0,Standard Preparedness
+06065043293,Census Tract 432.93; Riverside County; California,065,Riverside,3413,40.2,9.3,0.0,1,0,0,1,Standard Preparedness
+06065043294,Census Tract 432.94; Riverside County; California,065,Riverside,4640,33.0,7.4,0.0,0,0,0,0,Standard Preparedness
+06065043295,Census Tract 432.95; Riverside County; California,065,Riverside,5417,24.8,14.0,3.7,0,0,0,0,Standard Preparedness
+06065043296,Census Tract 432.96; Riverside County; California,065,Riverside,5529,22.0,10.7,0.5,0,0,0,0,Standard Preparedness
+06065043297,Census Tract 432.97; Riverside County; California,065,Riverside,9808,27.1,8.7,2.0,0,0,0,0,Standard Preparedness
+06065043298,Census Tract 432.98; Riverside County; California,065,Riverside,5195,40.4,9.6,6.8,1,0,1,2,Elevated Concern
+06065043304,Census Tract 433.04; Riverside County; California,065,Riverside,9150,40.6,17.5,5.2,1,1,0,2,Elevated Concern
+06065043306,Census Tract 433.06; Riverside County; California,065,Riverside,5390,41.4,12.8,5.8,1,0,0,1,Standard Preparedness
+06065043307,Census Tract 433.07; Riverside County; California,065,Riverside,6823,40.9,24.8,13.2,1,1,1,3,High Priority
+06065043308,Census Tract 433.08; Riverside County; California,065,Riverside,2820,17.5,13.4,9.7,0,0,1,1,Standard Preparedness
+06065043309,Census Tract 433.09; Riverside County; California,065,Riverside,3467,16.0,16.1,18.3,0,1,1,2,Elevated Concern
+06065043310,Census Tract 433.10; Riverside County; California,065,Riverside,3674,23.3,14.5,2.0,0,0,0,0,Standard Preparedness
+06065043311,Census Tract 433.11; Riverside County; California,065,Riverside,2335,23.8,12.4,11.4,0,0,1,1,Standard Preparedness
+06065043312,Census Tract 433.12; Riverside County; California,065,Riverside,5100,19.4,10.1,0.7,0,0,0,0,Standard Preparedness
+06065043313,Census Tract 433.13; Riverside County; California,065,Riverside,3609,26.6,11.4,5.0,0,0,0,0,Standard Preparedness
+06065043314,Census Tract 433.14; Riverside County; California,065,Riverside,4235,21.3,15.8,0.0,0,1,0,1,Standard Preparedness
+06065043315,Census Tract 433.15; Riverside County; California,065,Riverside,2430,47.3,22.3,3.3,1,1,0,2,Elevated Concern
+06065043316,Census Tract 433.16; Riverside County; California,065,Riverside,3690,73.3,25.6,2.5,1,1,0,2,Elevated Concern
+06065043318,Census Tract 433.18; Riverside County; California,065,Riverside,5374,41.9,9.8,1.9,1,0,0,1,Standard Preparedness
+06065043319,Census Tract 433.19; Riverside County; California,065,Riverside,6127,17.8,15.8,0.0,0,1,0,1,Standard Preparedness
+06065043401,Census Tract 434.01; Riverside County; California,065,Riverside,6626,39.5,14.3,4.1,0,0,0,0,Standard Preparedness
+06065043403,Census Tract 434.03; Riverside County; California,065,Riverside,3318,22.4,10.3,5.6,0,0,0,0,Standard Preparedness
+06065043404,Census Tract 434.04; Riverside County; California,065,Riverside,2454,67.8,33.7,7.1,1,1,1,3,High Priority
+06065043405,Census Tract 434.05; Riverside County; California,065,Riverside,5117,47.3,36.8,17.2,1,1,1,3,High Priority
+06065043503,Census Tract 435.03; Riverside County; California,065,Riverside,3764,42.9,35.5,23.8,1,1,1,3,High Priority
+06065043505,Census Tract 435.05; Riverside County; California,065,Riverside,3810,76.3,37.9,16.4,1,1,1,3,High Priority
+06065043506,Census Tract 435.06; Riverside County; California,065,Riverside,8356,37.0,14.3,3.0,0,0,0,0,Standard Preparedness
+06065043509,Census Tract 435.09; Riverside County; California,065,Riverside,5403,28.1,17.6,0.5,0,1,0,1,Standard Preparedness
+06065043512,Census Tract 435.12; Riverside County; California,065,Riverside,7215,38.4,17.3,7.3,0,1,1,2,Elevated Concern
+06065043513,Census Tract 435.13; Riverside County; California,065,Riverside,3010,40.1,16.2,6.4,1,1,1,3,High Priority
+06065043517,Census Tract 435.17; Riverside County; California,065,Riverside,8846,18.1,7.8,3.6,0,0,0,0,Standard Preparedness
+06065043518,Census Tract 435.18; Riverside County; California,065,Riverside,5740,20.1,11.6,0.0,0,0,0,0,Standard Preparedness
+06065043519,Census Tract 435.19; Riverside County; California,065,Riverside,1307,95.5,44.8,5.9,1,1,0,2,Elevated Concern
+06065043520,Census Tract 435.20; Riverside County; California,065,Riverside,2463,35.9,16.9,0.0,0,1,0,1,Standard Preparedness
+06065043521,Census Tract 435.21; Riverside County; California,065,Riverside,4097,39.9,25.8,9.2,0,1,1,2,Elevated Concern
+06065043522,Census Tract 435.22; Riverside County; California,065,Riverside,2722,15.6,24.7,12.1,0,1,1,2,Elevated Concern
+06065043523,Census Tract 435.23; Riverside County; California,065,Riverside,3248,34.8,18.6,12.0,0,1,1,2,Elevated Concern
+06065043524,Census Tract 435.24; Riverside County; California,065,Riverside,4911,45.0,20.9,2.4,1,1,0,2,Elevated Concern
+06065043601,Census Tract 436.01; Riverside County; California,065,Riverside,5437,20.3,15.2,7.9,0,1,1,2,Elevated Concern
+06065043602,Census Tract 436.02; Riverside County; California,065,Riverside,3563,43.3,16.2,10.5,1,1,1,3,High Priority
+06065043701,Census Tract 437.01; Riverside County; California,065,Riverside,4236,37.9,19.5,4.9,0,1,0,1,Standard Preparedness
+06065043702,Census Tract 437.02; Riverside County; California,065,Riverside,4959,37.3,18.9,2.9,0,1,0,1,Standard Preparedness
+06065043703,Census Tract 437.03; Riverside County; California,065,Riverside,3399,33.1,12.9,1.7,0,0,0,0,Standard Preparedness
+06065043802,Census Tract 438.02; Riverside County; California,065,Riverside,7421,36.4,11.8,5.2,0,0,0,0,Standard Preparedness
+06065043807,Census Tract 438.07; Riverside County; California,065,Riverside,6598,27.9,13.0,2.9,0,0,0,0,Standard Preparedness
+06065043809,Census Tract 438.09; Riverside County; California,065,Riverside,7384,36.8,13.6,2.7,0,0,0,0,Standard Preparedness
+06065043810,Census Tract 438.10; Riverside County; California,065,Riverside,4919,71.1,18.5,0.0,1,1,0,2,Elevated Concern
+06065043812,Census Tract 438.12; Riverside County; California,065,Riverside,6519,92.5,41.2,5.1,1,1,0,2,Elevated Concern
+06065043813,Census Tract 438.13; Riverside County; California,065,Riverside,3896,40.4,15.3,4.6,1,1,0,2,Elevated Concern
+06065043818,Census Tract 438.18; Riverside County; California,065,Riverside,4016,22.3,8.7,1.8,0,0,0,0,Standard Preparedness
+06065043820,Census Tract 438.20; Riverside County; California,065,Riverside,5869,44.5,9.6,4.6,1,0,0,1,Standard Preparedness
+06065043821,Census Tract 438.21; Riverside County; California,065,Riverside,5872,19.5,12.4,3.3,0,0,0,0,Standard Preparedness
+06065043822,Census Tract 438.22; Riverside County; California,065,Riverside,3622,15.9,10.7,1.2,0,0,0,0,Standard Preparedness
+06065043823,Census Tract 438.23; Riverside County; California,065,Riverside,13619,18.2,7.9,5.7,0,0,0,0,Standard Preparedness
+06065043824,Census Tract 438.24; Riverside County; California,065,Riverside,5239,59.0,18.0,7.0,1,1,1,3,High Priority
+06065043900,Census Tract 439; Riverside County; California,065,Riverside,6105,18.5,10.9,6.3,0,0,1,1,Standard Preparedness
+06065044000,Census Tract 440; Riverside County; California,065,Riverside,1900,24.4,15.7,8.3,0,1,1,2,Elevated Concern
+06065044101,Census Tract 441.01; Riverside County; California,065,Riverside,2817,25.9,11.1,9.7,0,0,1,1,Standard Preparedness
+06065044102,Census Tract 441.02; Riverside County; California,065,Riverside,3360,33.7,21.0,2.2,0,1,0,1,Standard Preparedness
+06065044103,Census Tract 441.03; Riverside County; California,065,Riverside,7023,59.4,25.1,5.1,1,1,0,2,Elevated Concern
+06065044104,Census Tract 441.04; Riverside County; California,065,Riverside,3001,31.4,14.5,0.9,0,0,0,0,Standard Preparedness
+06065044200,Census Tract 442; Riverside County; California,065,Riverside,5783,19.8,18.2,8.1,0,1,1,2,Elevated Concern
+06065044300,Census Tract 443; Riverside County; California,065,Riverside,4749,30.6,15.3,7.2,0,1,1,2,Elevated Concern
+06065044403,Census Tract 444.03; Riverside County; California,065,Riverside,3607,54.0,17.2,4.6,1,1,0,2,Elevated Concern
+06065044404,Census Tract 444.04; Riverside County; California,065,Riverside,2416,40.3,14.4,3.2,1,0,0,1,Standard Preparedness
+06065044405,Census Tract 444.05; Riverside County; California,065,Riverside,1578,50.3,20.5,7.9,1,1,1,3,High Priority
+06065044406,Census Tract 444.06; Riverside County; California,065,Riverside,2519,36.3,18.8,3.7,0,1,0,1,Standard Preparedness
+06065044407,Census Tract 444.07; Riverside County; California,065,Riverside,2659,47.1,20.9,0.9,1,1,0,2,Elevated Concern
+06065044505,Census Tract 445.05; Riverside County; California,065,Riverside,6952,40.4,15.6,3.5,1,1,0,2,Elevated Concern
+06065044507,Census Tract 445.07; Riverside County; California,065,Riverside,7518,22.8,8.8,10.7,0,0,1,1,Standard Preparedness
+06065044509,Census Tract 445.09; Riverside County; California,065,Riverside,5545,30.7,13.7,15.5,0,0,1,1,Standard Preparedness
+06065044510,Census Tract 445.10; Riverside County; California,065,Riverside,6222,16.2,13.2,4.7,0,0,0,0,Standard Preparedness
+06065044515,Census Tract 445.15; Riverside County; California,065,Riverside,3871,42.6,17.8,0.7,1,1,0,2,Elevated Concern
+06065044516,Census Tract 445.16; Riverside County; California,065,Riverside,7035,33.0,16.9,13.3,0,1,1,2,Elevated Concern
+06065044517,Census Tract 445.17; Riverside County; California,065,Riverside,2471,52.7,26.1,6.6,1,1,1,3,High Priority
+06065044518,Census Tract 445.18; Riverside County; California,065,Riverside,7473,32.3,11.2,3.1,0,0,0,0,Standard Preparedness
+06065044520,Census Tract 445.20; Riverside County; California,065,Riverside,1023,64.3,22.4,6.0,1,1,0,2,Elevated Concern
+06065044521,Census Tract 445.21; Riverside County; California,065,Riverside,1427,36.6,25.1,1.9,0,1,0,1,Standard Preparedness
+06065044523,Census Tract 445.23; Riverside County; California,065,Riverside,1929,58.1,17.0,6.8,1,1,1,3,High Priority
+06065044524,Census Tract 445.24; Riverside County; California,065,Riverside,2897,27.2,8.5,7.5,0,0,1,1,Standard Preparedness
+06065044602,Census Tract 446.02; Riverside County; California,065,Riverside,2711,36.5,15.5,10.4,0,1,1,2,Elevated Concern
+06065044604,Census Tract 446.04; Riverside County; California,065,Riverside,3206,45.3,16.3,4.2,1,1,0,2,Elevated Concern
+06065044605,Census Tract 446.05; Riverside County; California,065,Riverside,5831,43.4,12.7,3.3,1,0,0,1,Standard Preparedness
+06065044606,Census Tract 446.06; Riverside County; California,065,Riverside,3056,46.9,18.0,8.5,1,1,1,3,High Priority
+06065044701,Census Tract 447.01; Riverside County; California,065,Riverside,3239,38.0,21.2,15.6,0,1,1,2,Elevated Concern
+06065044702,Census Tract 447.02; Riverside County; California,065,Riverside,2094,38.4,14.1,2.8,0,0,0,0,Standard Preparedness
+06065044804,Census Tract 448.04; Riverside County; California,065,Riverside,2614,27.8,12.1,3.8,0,0,0,0,Standard Preparedness
+06065044805,Census Tract 448.05; Riverside County; California,065,Riverside,1583,52.8,18.9,3.1,1,1,0,2,Elevated Concern
+06065044806,Census Tract 448.06; Riverside County; California,065,Riverside,1681,37.9,22.2,12.3,0,1,1,2,Elevated Concern
+06065044807,Census Tract 448.07; Riverside County; California,065,Riverside,1439,48.6,20.6,11.8,1,1,1,3,High Priority
+06065044904,Census Tract 449.04; Riverside County; California,065,Riverside,5575,37.9,10.7,4.6,0,0,0,0,Standard Preparedness
+06065044907,Census Tract 449.07; Riverside County; California,065,Riverside,5102,15.6,6.1,1.1,0,0,0,0,Standard Preparedness
+06065044911,Census Tract 449.11; Riverside County; California,065,Riverside,4855,47.5,19.7,1.9,1,1,0,2,Elevated Concern
+06065044916,Census Tract 449.16; Riverside County; California,065,Riverside,5157,48.6,11.5,5.7,1,0,0,1,Standard Preparedness
+06065044917,Census Tract 449.17; Riverside County; California,065,Riverside,3657,74.2,23.7,4.0,1,1,0,2,Elevated Concern
+06065044918,Census Tract 449.18; Riverside County; California,065,Riverside,2462,76.5,22.3,3.8,1,1,0,2,Elevated Concern
+06065044919,Census Tract 449.19; Riverside County; California,065,Riverside,4947,80.9,26.0,3.0,1,1,0,2,Elevated Concern
+06065044921,Census Tract 449.21; Riverside County; California,065,Riverside,2780,62.8,16.1,2.6,1,1,0,2,Elevated Concern
+06065044922,Census Tract 449.22; Riverside County; California,065,Riverside,6808,38.3,9.9,0.0,0,0,0,0,Standard Preparedness
+06065044923,Census Tract 449.23; Riverside County; California,065,Riverside,3136,21.5,13.9,5.6,0,0,0,0,Standard Preparedness
+06065044924,Census Tract 449.24; Riverside County; California,065,Riverside,3106,39.7,5.4,0.0,0,0,0,0,Standard Preparedness
+06065044925,Census Tract 449.25; Riverside County; California,065,Riverside,3728,22.6,14.6,0.0,0,0,0,0,Standard Preparedness
+06065044926,Census Tract 449.26; Riverside County; California,065,Riverside,5067,38.2,8.3,11.4,0,0,1,1,Standard Preparedness
+06065044927,Census Tract 449.27; Riverside County; California,065,Riverside,3663,60.8,15.5,1.0,1,1,0,2,Elevated Concern
+06065044928,Census Tract 449.28; Riverside County; California,065,Riverside,3945,77.3,16.0,7.4,1,1,1,3,High Priority
+06065044929,Census Tract 449.29; Riverside County; California,065,Riverside,3920,67.5,19.9,7.8,1,1,1,3,High Priority
+06065044930,Census Tract 449.30; Riverside County; California,065,Riverside,3185,38.5,19.0,0.8,0,1,0,1,Standard Preparedness
+06065044931,Census Tract 449.31; Riverside County; California,065,Riverside,2546,26.5,14.4,0.0,0,0,0,0,Standard Preparedness
+06065044932,Census Tract 449.32; Riverside County; California,065,Riverside,2758,31.9,13.7,3.8,0,0,0,0,Standard Preparedness
+06065044933,Census Tract 449.33; Riverside County; California,065,Riverside,3628,7.8,5.7,2.8,0,0,0,0,Standard Preparedness
+06065044934,Census Tract 449.34; Riverside County; California,065,Riverside,2604,35.6,12.2,30.1,0,0,1,1,Standard Preparedness
+06065045000,Census Tract 450; Riverside County; California,065,Riverside,3009,39.4,14.2,8.6,0,0,1,1,Standard Preparedness
+06065045103,Census Tract 451.03; Riverside County; California,065,Riverside,3086,55.1,14.2,5.4,1,0,0,1,Standard Preparedness
+06065045109,Census Tract 451.09; Riverside County; California,065,Riverside,4373,32.7,6.1,2.1,0,0,0,0,Standard Preparedness
+06065045110,Census Tract 451.10; Riverside County; California,065,Riverside,5188,34.5,9.5,2.2,0,0,0,0,Standard Preparedness
+06065045114,Census Tract 451.14; Riverside County; California,065,Riverside,1799,78.2,19.8,0.0,1,1,0,2,Elevated Concern
+06065045115,Census Tract 451.15; Riverside County; California,065,Riverside,1841,58.3,14.0,4.4,1,0,0,1,Standard Preparedness
+06065045116,Census Tract 451.16; Riverside County; California,065,Riverside,1653,36.5,12.8,4.5,0,0,0,0,Standard Preparedness
+06065045117,Census Tract 451.17; Riverside County; California,065,Riverside,3512,40.2,17.8,8.0,1,1,1,3,High Priority
+06065045118,Census Tract 451.18; Riverside County; California,065,Riverside,2494,40.0,13.2,4.6,1,0,0,1,Standard Preparedness
+06065045119,Census Tract 451.19; Riverside County; California,065,Riverside,2738,50.2,13.7,2.6,1,0,0,1,Standard Preparedness
+06065045120,Census Tract 451.20; Riverside County; California,065,Riverside,4016,40.3,10.7,3.0,1,0,0,1,Standard Preparedness
+06065045122,Census Tract 451.22; Riverside County; California,065,Riverside,1338,80.7,19.1,1.4,1,1,0,2,Elevated Concern
+06065045123,Census Tract 451.23; Riverside County; California,065,Riverside,2271,59.0,12.8,0.0,1,0,0,1,Standard Preparedness
+06065045124,Census Tract 451.24; Riverside County; California,065,Riverside,1525,53.5,19.3,4.2,1,1,0,2,Elevated Concern
+06065045125,Census Tract 451.25; Riverside County; California,065,Riverside,2240,80.4,21.1,0.8,1,1,0,2,Elevated Concern
+06065045126,Census Tract 451.26; Riverside County; California,065,Riverside,3216,35.2,9.4,10.5,0,0,1,1,Standard Preparedness
+06065045127,Census Tract 451.27; Riverside County; California,065,Riverside,2204,48.2,16.7,12.0,1,1,1,3,High Priority
+06065045128,Census Tract 451.28; Riverside County; California,065,Riverside,1668,68.3,16.2,3.3,1,1,0,2,Elevated Concern
+06065045129,Census Tract 451.29; Riverside County; California,065,Riverside,5053,59.7,12.3,8.6,1,0,1,2,Elevated Concern
+06065045207,Census Tract 452.07; Riverside County; California,065,Riverside,5046,27.6,9.6,2.1,0,0,0,0,Standard Preparedness
+06065045209,Census Tract 452.09; Riverside County; California,065,Riverside,5840,39.0,15.8,7.8,0,1,1,2,Elevated Concern
+06065045212,Census Tract 452.12; Riverside County; California,065,Riverside,2094,59.4,17.4,1.1,1,1,0,2,Elevated Concern
+06065045213,Census Tract 452.13; Riverside County; California,065,Riverside,6303,32.1,14.2,6.5,0,0,1,1,Standard Preparedness
+06065045214,Census Tract 452.14; Riverside County; California,065,Riverside,5865,48.1,9.9,3.6,1,0,0,1,Standard Preparedness
+06065045216,Census Tract 452.16; Riverside County; California,065,Riverside,2341,87.5,20.0,1.9,1,1,0,2,Elevated Concern
+06065045217,Census Tract 452.17; Riverside County; California,065,Riverside,7302,27.5,8.8,1.9,0,0,0,0,Standard Preparedness
+06065045222,Census Tract 452.22; Riverside County; California,065,Riverside,2607,48.7,13.2,4.7,1,0,0,1,Standard Preparedness
+06065045224,Census Tract 452.24; Riverside County; California,065,Riverside,5615,30.7,8.3,0.8,0,0,0,0,Standard Preparedness
+06065045226,Census Tract 452.26; Riverside County; California,065,Riverside,6537,9.0,4.2,0.0,0,0,0,0,Standard Preparedness
+06065045228,Census Tract 452.28; Riverside County; California,065,Riverside,6899,53.8,15.5,1.0,1,1,0,2,Elevated Concern
+06065045233,Census Tract 452.33; Riverside County; California,065,Riverside,5317,21.1,8.8,4.7,0,0,0,0,Standard Preparedness
+06065045234,Census Tract 452.34; Riverside County; California,065,Riverside,5029,38.6,7.6,5.1,0,0,0,0,Standard Preparedness
+06065045235,Census Tract 452.35; Riverside County; California,065,Riverside,3339,39.3,13.6,4.6,0,0,0,0,Standard Preparedness
+06065045302,Census Tract 453.02; Riverside County; California,065,Riverside,4023,32.8,14.5,0.7,0,0,0,0,Standard Preparedness
+06065045303,Census Tract 453.03; Riverside County; California,065,Riverside,2712,30.5,7.7,6.6,0,0,1,1,Standard Preparedness
+06065045305,Census Tract 453.05; Riverside County; California,065,Riverside,5135,19.2,11.2,0.8,0,0,0,0,Standard Preparedness
+06065045306,Census Tract 453.06; Riverside County; California,065,Riverside,6107,29.6,7.8,0.8,0,0,0,0,Standard Preparedness
+06065045501,Census Tract 455.01; Riverside County; California,065,Riverside,6409,23.4,10.2,3.8,0,0,0,0,Standard Preparedness
+06065045502,Census Tract 455.02; Riverside County; California,065,Riverside,3391,27.6,19.6,15.5,0,1,1,2,Elevated Concern
+06065045606,Census Tract 456.06; Riverside County; California,065,Riverside,3384,62.4,11.5,1.9,1,0,0,1,Standard Preparedness
+06065045610,Census Tract 456.10; Riverside County; California,065,Riverside,3758,30.7,11.7,15.1,0,0,1,1,Standard Preparedness
+06065045611,Census Tract 456.11; Riverside County; California,065,Riverside,3257,20.2,10.9,5.1,0,0,0,0,Standard Preparedness
+06065045612,Census Tract 456.12; Riverside County; California,065,Riverside,4179,30.5,6.3,3.2,0,0,0,0,Standard Preparedness
+06065045613,Census Tract 456.13; Riverside County; California,065,Riverside,1842,68.7,11.8,0.0,1,0,0,1,Standard Preparedness
+06065045614,Census Tract 456.14; Riverside County; California,065,Riverside,1205,65.3,12.0,0.0,1,0,0,1,Standard Preparedness
+06065045615,Census Tract 456.15; Riverside County; California,065,Riverside,3260,42.3,15.6,5.3,1,1,0,2,Elevated Concern
+06065045616,Census Tract 456.16; Riverside County; California,065,Riverside,1812,22.6,7.6,6.5,0,0,1,1,Standard Preparedness
+06065045617,Census Tract 456.17; Riverside County; California,065,Riverside,1631,87.1,12.0,4.8,1,0,0,1,Standard Preparedness
+06065045618,Census Tract 456.18; Riverside County; California,065,Riverside,1866,17.7,8.3,2.2,0,0,0,0,Standard Preparedness
+06065045619,Census Tract 456.19; Riverside County; California,065,Riverside,4778,11.1,7.7,2.4,0,0,0,0,Standard Preparedness
+06065045703,Census Tract 457.03; Riverside County; California,065,Riverside,7075,29.4,11.1,9.2,0,0,1,1,Standard Preparedness
+06065045704,Census Tract 457.04; Riverside County; California,065,Riverside,3194,31.6,13.9,0.7,0,0,0,0,Standard Preparedness
+06065045706,Census Tract 457.06; Riverside County; California,065,Riverside,4782,35.7,13.7,5.6,0,0,0,0,Standard Preparedness
+06065045707,Census Tract 457.07; Riverside County; California,065,Riverside,6523,28.5,9.1,4.6,0,0,0,0,Standard Preparedness
+06065045708,Census Tract 457.08; Riverside County; California,065,Riverside,4053,10.1,4.4,0.8,0,0,0,0,Standard Preparedness
+06065045709,Census Tract 457.09; Riverside County; California,065,Riverside,4547,15.3,7.0,6.9,0,0,1,1,Standard Preparedness
+06065045900,Census Tract 459; Riverside County; California,065,Riverside,1773,36.6,12.0,4.3,0,0,0,0,Standard Preparedness
+06065046101,Census Tract 461.01; Riverside County; California,065,Riverside,2678,31.3,16.4,15.5,0,1,1,2,Elevated Concern
+06065046102,Census Tract 461.02; Riverside County; California,065,Riverside,2082,28.0,23.4,12.3,0,1,1,2,Elevated Concern
+06065046103,Census Tract 461.03; Riverside County; California,065,Riverside,3188,24.8,15.0,1.3,0,0,0,0,Standard Preparedness
+06065046200,Census Tract 462; Riverside County; California,065,Riverside,2711,21.0,17.3,13.6,0,1,1,2,Elevated Concern
+06065046401,Census Tract 464.01; Riverside County; California,065,Riverside,4002,20.4,11.7,1.6,0,0,0,0,Standard Preparedness
+06065046402,Census Tract 464.02; Riverside County; California,065,Riverside,5416,25.6,15.1,5.0,0,0,0,0,Standard Preparedness
+06065046403,Census Tract 464.03; Riverside County; California,065,Riverside,7525,18.0,13.1,0.6,0,0,0,0,Standard Preparedness
+06065046404,Census Tract 464.04; Riverside County; California,065,Riverside,6454,28.4,13.6,1.6,0,0,0,0,Standard Preparedness
+06065046405,Census Tract 464.05; Riverside County; California,065,Riverside,4127,40.6,7.1,1.7,1,0,0,1,Standard Preparedness
+06065046501,Census Tract 465.01; Riverside County; California,065,Riverside,5727,0.0,9.3,0.0,0,0,0,0,Standard Preparedness
+06065046502,Census Tract 465.02; Riverside County; California,065,Riverside,3987,3.9,5.7,20.3,0,0,1,1,Standard Preparedness
+06065046601,Census Tract 466.01; Riverside County; California,065,Riverside,3162,61.0,15.2,15.3,1,1,1,3,High Priority
+06065046602,Census Tract 466.02; Riverside County; California,065,Riverside,3753,38.9,12.4,0.0,0,0,0,0,Standard Preparedness
+06065046700,Census Tract 467; Riverside County; California,065,Riverside,4042,35.5,14.7,12.0,0,0,1,1,Standard Preparedness
+06065046800,Census Tract 468; Riverside County; California,065,Riverside,6228,36.2,10.9,1.0,0,0,0,0,Standard Preparedness
+06065046900,Census Tract 469; Riverside County; California,065,Riverside,1914,25.9,9.7,3.6,0,0,0,0,Standard Preparedness
+06065047000,Census Tract 470; Riverside County; California,065,Riverside,1585,31.1,12.6,0.0,0,0,0,0,Standard Preparedness
+06065047201,Census Tract 472.01; Riverside County; California,065,Riverside,1924,62.0,19.4,9.6,1,1,1,3,High Priority
+06065047202,Census Tract 472.02; Riverside County; California,065,Riverside,2011,62.3,19.1,2.1,1,1,0,2,Elevated Concern
+06065047901,Census Tract 479.01; Riverside County; California,065,Riverside,4549,33.6,12.5,3.9,0,0,0,0,Standard Preparedness
+06065047902,Census Tract 479.02; Riverside County; California,065,Riverside,6431,33.6,7.4,0.6,0,0,0,0,Standard Preparedness
+06065048100,Census Tract 481; Riverside County; California,065,Riverside,7260,16.2,4.3,7.3,0,0,1,1,Standard Preparedness
+06065048200,Census Tract 482; Riverside County; California,065,Riverside,4856,31.9,6.9,0.5,0,0,0,0,Standard Preparedness
+06065048300,Census Tract 483; Riverside County; California,065,Riverside,6755,23.5,12.1,2.6,0,0,0,0,Standard Preparedness
+06065048700,Census Tract 487; Riverside County; California,065,Riverside,4230,23.6,10.1,0.0,0,0,0,0,Standard Preparedness
+06065048800,Census Tract 488; Riverside County; California,065,Riverside,4202,24.6,9.4,6.1,0,0,0,0,Standard Preparedness
+06065048901,Census Tract 489.01; Riverside County; California,065,Riverside,3971,25.4,15.2,0.8,0,1,0,1,Standard Preparedness
+06065048902,Census Tract 489.02; Riverside County; California,065,Riverside,7916,36.2,11.1,7.3,0,0,1,1,Standard Preparedness
+06065049001,Census Tract 490.01; Riverside County; California,065,Riverside,7183,32.8,17.2,2.3,0,1,0,1,Standard Preparedness
+06065049002,Census Tract 490.02; Riverside County; California,065,Riverside,2918,37.4,10.6,3.5,0,0,0,0,Standard Preparedness
+06065049101,Census Tract 491.01; Riverside County; California,065,Riverside,2404,40.3,15.1,2.2,1,0,0,1,Standard Preparedness
+06065049102,Census Tract 491.02; Riverside County; California,065,Riverside,3475,60.4,13.1,0.0,1,0,0,1,Standard Preparedness
+06065049400,Census Tract 494; Riverside County; California,065,Riverside,2996,69.2,14.0,1.6,1,0,0,1,Standard Preparedness
+06065049501,Census Tract 495.01; Riverside County; California,065,Riverside,4410,21.0,3.8,4.9,0,0,0,0,Standard Preparedness
+06065049502,Census Tract 495.02; Riverside County; California,065,Riverside,4243,26.0,5.7,6.3,0,0,1,1,Standard Preparedness
+06065049600,Census Tract 496; Riverside County; California,065,Riverside,6780,25.9,9.5,10.8,0,0,1,1,Standard Preparedness
+06065049701,Census Tract 497.01; Riverside County; California,065,Riverside,3382,22.6,3.4,0.0,0,0,0,0,Standard Preparedness
+06065049702,Census Tract 497.02; Riverside County; California,065,Riverside,5877,27.8,6.8,6.4,0,0,1,1,Standard Preparedness
+06065049800,Census Tract 498; Riverside County; California,065,Riverside,3773,11.7,10.9,4.5,0,0,0,0,Standard Preparedness
+06065050301,Census Tract 503.01; Riverside County; California,065,Riverside,6274,20.4,14.2,0.0,0,0,0,0,Standard Preparedness
+06065050302,Census Tract 503.02; Riverside County; California,065,Riverside,6108,16.1,8.5,0.0,0,0,0,0,Standard Preparedness
+06065050401,Census Tract 504.01; Riverside County; California,065,Riverside,5302,20.2,7.5,2.7,0,0,0,0,Standard Preparedness
+06065050402,Census Tract 504.02; Riverside County; California,065,Riverside,4790,18.4,11.3,2.1,0,0,0,0,Standard Preparedness
+06065050501,Census Tract 505.01; Riverside County; California,065,Riverside,5911,14.5,10.7,1.4,0,0,0,0,Standard Preparedness
+06065050502,Census Tract 505.02; Riverside County; California,065,Riverside,3420,17.4,5.8,1.1,0,0,0,0,Standard Preparedness
+06065050503,Census Tract 505.03; Riverside County; California,065,Riverside,5291,24.2,7.3,0.0,0,0,0,0,Standard Preparedness
+06065050600,Census Tract 506; Riverside County; California,065,Riverside,8628,32.0,11.1,6.4,0,0,1,1,Standard Preparedness
+06065050701,Census Tract 507.01; Riverside County; California,065,Riverside,8859,20.7,6.8,0.0,0,0,0,0,Standard Preparedness
+06065050702,Census Tract 507.02; Riverside County; California,065,Riverside,4533,30.2,17.9,1.3,0,1,0,1,Standard Preparedness
+06065050901,Census Tract 509.01; Riverside County; California,065,Riverside,1858,8.5,6.8,5.8,0,0,0,0,Standard Preparedness
+06065050902,Census Tract 509.02; Riverside County; California,065,Riverside,2666,29.8,3.2,3.2,0,0,0,0,Standard Preparedness
+06065051100,Census Tract 511; Riverside County; California,065,Riverside,6889,16.6,12.5,3.7,0,0,0,0,Standard Preparedness
+06065051200,Census Tract 512; Riverside County; California,065,Riverside,5213,25.5,9.3,10.8,0,0,1,1,Standard Preparedness
+06065051301,Census Tract 513.01; Riverside County; California,065,Riverside,4730,31.7,15.0,6.5,0,0,1,1,Standard Preparedness
+06065051302,Census Tract 513.02; Riverside County; California,065,Riverside,5940,46.1,16.0,1.4,1,1,0,2,Elevated Concern
+06065051401,Census Tract 514.01; Riverside County; California,065,Riverside,3423,97.7,31.8,8.1,1,1,1,3,High Priority
+06065051402,Census Tract 514.02; Riverside County; California,065,Riverside,3099,87.4,31.0,2.8,1,1,0,2,Elevated Concern
+06065940100,Census Tract 9401; Riverside County; California,065,Riverside,190,74.4,12.6,0.0,1,0,0,1,Standard Preparedness
+06065940400,Census Tract 9404; Riverside County; California,065,Riverside,5930,20.3,12.5,2.8,0,0,0,0,Standard Preparedness
+06065940500,Census Tract 9405; Riverside County; California,065,Riverside,2351,57.9,17.4,2.0,1,1,0,2,Elevated Concern
+06065940600,Census Tract 9406; Riverside County; California,065,Riverside,4147,72.1,20.5,1.3,1,1,0,2,Elevated Concern
+06065940700,Census Tract 9407; Riverside County; California,065,Riverside,2747,55.5,16.9,4.8,1,1,0,2,Elevated Concern
+06065940800,Census Tract 9408; Riverside County; California,065,Riverside,3008,58.3,18.5,5.0,1,1,0,2,Elevated Concern
+06065940900,Census Tract 9409; Riverside County; California,065,Riverside,2105,72.8,24.9,3.6,1,1,0,2,Elevated Concern
+06065941001,Census Tract 9410.01; Riverside County; California,065,Riverside,1917,60.8,27.3,9.0,1,1,1,3,High Priority
+06065941002,Census Tract 9410.02; Riverside County; California,065,Riverside,2420,57.3,19.0,4.6,1,1,0,2,Elevated Concern
+06065941100,Census Tract 9411; Riverside County; California,065,Riverside,2324,74.5,21.4,3.3,1,1,0,2,Elevated Concern
+06065941200,Census Tract 9412; Riverside County; California,065,Riverside,2807,62.2,21.4,2.4,1,1,0,2,Elevated Concern
+06065941300,Census Tract 9413; Riverside County; California,065,Riverside,2927,47.3,17.4,6.2,1,1,1,3,High Priority
+06065941400,Census Tract 9414; Riverside County; California,065,Riverside,3842,42.0,15.9,10.8,1,1,1,3,High Priority
+06065941500,Census Tract 9415; Riverside County; California,065,Riverside,4977,26.0,13.9,2.8,0,0,0,0,Standard Preparedness
+06075010101,Census Tract 101.01; San Francisco County; California,075,San Francisco,2004,23.3,17.5,37.9,0,1,0,1,Standard Preparedness
+06075010102,Census Tract 101.02; San Francisco County; California,075,San Francisco,1795,32.6,27.0,33.4,0,1,0,1,Standard Preparedness
+06075010201,Census Tract 102.01; San Francisco County; California,075,San Francisco,2608,26.5,8.8,32.9,0,0,0,0,Standard Preparedness
+06075010202,Census Tract 102.02; San Francisco County; California,075,San Francisco,1761,25.6,5.0,18.9,0,0,0,0,Standard Preparedness
+06075010300,Census Tract 103; San Francisco County; California,075,San Francisco,3791,38.4,11.5,23.3,1,0,0,1,Standard Preparedness
+06075010401,Census Tract 104.01; San Francisco County; California,075,San Francisco,2393,34.1,6.4,28.7,0,0,0,0,Standard Preparedness
+06075010402,Census Tract 104.02; San Francisco County; California,075,San Francisco,2012,21.0,4.5,34.9,0,0,0,0,Standard Preparedness
+06075010500,Census Tract 105; San Francisco County; California,075,San Francisco,3177,39.0,6.7,37.5,1,0,0,1,Standard Preparedness
+06075010600,Census Tract 106; San Francisco County; California,075,San Francisco,3293,30.2,15.7,64.8,0,1,1,2,Elevated Concern
+06075010701,Census Tract 107.01; San Francisco County; California,075,San Francisco,3280,55.0,20.6,84.4,1,1,1,3,High Priority
+06075010702,Census Tract 107.02; San Francisco County; California,075,San Francisco,1380,28.3,9.1,46.1,0,0,1,1,Standard Preparedness
+06075010800,Census Tract 108; San Francisco County; California,075,San Francisco,4334,31.4,12.7,28.7,0,0,0,0,Standard Preparedness
+06075010901,Census Tract 109.01; San Francisco County; California,075,San Francisco,2069,22.5,5.1,37.3,0,0,0,0,Standard Preparedness
+06075010902,Census Tract 109.02; San Francisco County; California,075,San Francisco,2568,24.0,10.0,61.2,0,0,1,1,Standard Preparedness
+06075011001,Census Tract 110.01; San Francisco County; California,075,San Francisco,2327,29.6,8.2,50.8,0,0,1,1,Standard Preparedness
+06075011002,Census Tract 110.02; San Francisco County; California,075,San Francisco,1755,20.5,17.0,33.8,0,1,0,1,Standard Preparedness
+06075011101,Census Tract 111.01; San Francisco County; California,075,San Francisco,2470,22.2,9.5,54.2,0,0,1,1,Standard Preparedness
+06075011102,Census Tract 111.02; San Francisco County; California,075,San Francisco,2205,23.4,13.5,72.5,0,0,1,1,Standard Preparedness
+06075011200,Census Tract 112; San Francisco County; California,075,San Francisco,2678,33.1,7.7,56.8,0,0,1,1,Standard Preparedness
+06075011300,Census Tract 113; San Francisco County; California,075,San Francisco,2518,47.8,22.0,64.1,1,1,1,3,High Priority
+06075011700,Census Tract 117; San Francisco County; California,075,San Francisco,1947,16.2,12.9,74.7,0,0,1,1,Standard Preparedness
+06075011800,Census Tract 118; San Francisco County; California,075,San Francisco,1635,59.1,12.9,74.4,1,0,1,2,Elevated Concern
+06075011901,Census Tract 119.01; San Francisco County; California,075,San Francisco,2084,21.5,6.6,65.4,0,0,1,1,Standard Preparedness
+06075011902,Census Tract 119.02; San Francisco County; California,075,San Francisco,2732,24.4,10.1,68.7,0,0,1,1,Standard Preparedness
+06075012001,Census Tract 120.01; San Francisco County; California,075,San Francisco,1738,20.9,10.5,60.0,0,0,1,1,Standard Preparedness
+06075012002,Census Tract 120.02; San Francisco County; California,075,San Francisco,2035,12.9,14.5,64.3,0,1,1,2,Elevated Concern
+06075012100,Census Tract 121; San Francisco County; California,075,San Francisco,3250,15.6,13.7,73.8,0,1,1,2,Elevated Concern
+06075012202,Census Tract 122.02; San Francisco County; California,075,San Francisco,3017,31.9,34.8,70.8,0,1,1,2,Elevated Concern
+06075012203,Census Tract 122.03; San Francisco County; California,075,San Francisco,1895,27.8,40.8,81.0,0,1,1,2,Elevated Concern
+06075012204,Census Tract 122.04; San Francisco County; California,075,San Francisco,2389,19.0,25.1,78.7,0,1,1,2,Elevated Concern
+06075012301,Census Tract 123.01; San Francisco County; California,075,San Francisco,1766,37.1,35.1,88.6,0,1,1,2,Elevated Concern
+06075012302,Census Tract 123.02; San Francisco County; California,075,San Francisco,2586,14.7,20.4,85.2,0,1,1,2,Elevated Concern
+06075012403,Census Tract 124.03; San Francisco County; California,075,San Francisco,2696,23.9,19.8,70.5,0,1,1,2,Elevated Concern
+06075012404,Census Tract 124.04; San Francisco County; California,075,San Francisco,2587,17.1,32.6,78.9,0,1,1,2,Elevated Concern
+06075012405,Census Tract 124.05; San Francisco County; California,075,San Francisco,3878,5.7,8.0,68.2,0,0,1,1,Standard Preparedness
+06075012406,Census Tract 124.06; San Francisco County; California,075,San Francisco,1358,36.2,38.4,75.9,0,1,1,2,Elevated Concern
+06075012502,Census Tract 125.02; San Francisco County; California,075,San Francisco,4689,53.0,39.3,83.6,1,1,1,3,High Priority
+06075012503,Census Tract 125.03; San Francisco County; California,075,San Francisco,4497,29.0,25.2,75.2,0,1,1,2,Elevated Concern
+06075012504,Census Tract 125.04; San Francisco County; California,075,San Francisco,651,45.6,36.1,75.7,1,1,1,3,High Priority
+06075012601,Census Tract 126.01; San Francisco County; California,075,San Francisco,2045,12.3,4.0,32.3,0,0,0,0,Standard Preparedness
+06075012602,Census Tract 126.02; San Francisco County; California,075,San Francisco,2956,11.9,3.9,24.0,0,0,0,0,Standard Preparedness
+06075012700,Census Tract 127; San Francisco County; California,075,San Francisco,3973,14.3,3.7,13.0,0,0,0,0,Standard Preparedness
+06075012801,Census Tract 128.01; San Francisco County; California,075,San Francisco,2547,27.8,8.6,27.5,0,0,0,0,Standard Preparedness
+06075012802,Census Tract 128.02; San Francisco County; California,075,San Francisco,2035,16.0,7.6,20.4,0,0,0,0,Standard Preparedness
+06075012901,Census Tract 129.01; San Francisco County; California,075,San Francisco,2887,7.3,5.7,22.4,0,0,0,0,Standard Preparedness
+06075012902,Census Tract 129.02; San Francisco County; California,075,San Francisco,2735,20.8,9.1,28.7,0,0,0,0,Standard Preparedness
+06075013001,Census Tract 130.01; San Francisco County; California,075,San Francisco,1770,9.2,5.3,23.4,0,0,0,0,Standard Preparedness
+06075013002,Census Tract 130.02; San Francisco County; California,075,San Francisco,2785,8.6,1.8,30.3,0,0,0,0,Standard Preparedness
+06075013101,Census Tract 131.01; San Francisco County; California,075,San Francisco,3935,18.4,10.2,25.1,0,0,0,0,Standard Preparedness
+06075013102,Census Tract 131.02; San Francisco County; California,075,San Francisco,2725,24.9,8.4,25.7,0,0,0,0,Standard Preparedness
+06075013200,Census Tract 132; San Francisco County; California,075,San Francisco,3721,29.7,5.2,16.3,0,0,0,0,Standard Preparedness
+06075013300,Census Tract 133; San Francisco County; California,075,San Francisco,4160,42.7,12.6,34.0,1,0,0,1,Standard Preparedness
+06075013401,Census Tract 134.01; San Francisco County; California,075,San Francisco,1456,16.8,4.2,27.0,0,0,0,0,Standard Preparedness
+06075013402,Census Tract 134.02; San Francisco County; California,075,San Francisco,2302,24.1,3.2,19.3,0,0,0,0,Standard Preparedness
+06075013500,Census Tract 135; San Francisco County; California,075,San Francisco,2544,22.2,6.3,32.8,0,0,0,0,Standard Preparedness
+06075015100,Census Tract 151; San Francisco County; California,075,San Francisco,2840,29.9,14.0,40.6,0,1,0,1,Standard Preparedness
+06075015201,Census Tract 152.01; San Francisco County; California,075,San Francisco,1532,26.7,23.7,49.7,0,1,1,2,Elevated Concern
+06075015202,Census Tract 152.02; San Francisco County; California,075,San Francisco,2334,28.4,6.7,28.8,0,0,0,0,Standard Preparedness
+06075015300,Census Tract 153; San Francisco County; California,075,San Francisco,2427,25.2,8.1,33.1,0,0,0,0,Standard Preparedness
+06075015401,Census Tract 154.01; San Francisco County; California,075,San Francisco,3035,19.5,6.4,20.8,0,0,0,0,Standard Preparedness
+06075015402,Census Tract 154.02; San Francisco County; California,075,San Francisco,2747,14.1,4.1,11.0,0,0,0,0,Standard Preparedness
+06075015500,Census Tract 155; San Francisco County; California,075,San Francisco,3936,55.4,28.9,56.8,1,1,1,3,High Priority
+06075015600,Census Tract 156; San Francisco County; California,075,San Francisco,2927,39.2,15.0,29.9,1,1,0,2,Elevated Concern
+06075015701,Census Tract 157.01; San Francisco County; California,075,San Francisco,4958,19.6,8.3,18.8,0,0,0,0,Standard Preparedness
+06075015702,Census Tract 157.02; San Francisco County; California,075,San Francisco,3109,18.6,5.9,14.6,0,0,0,0,Standard Preparedness
+06075015801,Census Tract 158.01; San Francisco County; California,075,San Francisco,3220,28.9,14.4,26.5,0,1,0,1,Standard Preparedness
+06075015802,Census Tract 158.02; San Francisco County; California,075,San Francisco,3163,11.7,8.8,32.7,0,0,0,0,Standard Preparedness
+06075015900,Census Tract 159; San Francisco County; California,075,San Francisco,4876,34.6,13.9,50.8,0,1,1,2,Elevated Concern
+06075016000,Census Tract 160; San Francisco County; California,075,San Francisco,2725,36.3,15.9,59.3,0,1,1,2,Elevated Concern
+06075016101,Census Tract 161.01; San Francisco County; California,075,San Francisco,2444,50.3,39.3,55.3,1,1,1,3,High Priority
+06075016102,Census Tract 161.02; San Francisco County; California,075,San Francisco,2798,56.9,28.3,52.9,1,1,1,3,High Priority
+06075016200,Census Tract 162; San Francisco County; California,075,San Francisco,3198,13.2,17.0,53.6,0,1,1,2,Elevated Concern
+06075016300,Census Tract 163; San Francisco County; California,075,San Francisco,3794,14.5,10.9,36.9,0,0,0,0,Standard Preparedness
+06075016400,Census Tract 164; San Francisco County; California,075,San Francisco,3481,8.6,10.1,38.7,0,0,0,0,Standard Preparedness
+06075016500,Census Tract 165; San Francisco County; California,075,San Francisco,5393,17.9,7.6,29.7,0,0,0,0,Standard Preparedness
+06075016601,Census Tract 166.01; San Francisco County; California,075,San Francisco,3027,21.8,8.4,39.8,0,0,0,0,Standard Preparedness
+06075016602,Census Tract 166.02; San Francisco County; California,075,San Francisco,1986,8.8,5.2,19.9,0,0,0,0,Standard Preparedness
+06075016700,Census Tract 167; San Francisco County; California,075,San Francisco,5092,14.1,7.1,38.0,0,0,0,0,Standard Preparedness
+06075016801,Census Tract 168.01; San Francisco County; California,075,San Francisco,4013,15.7,10.6,52.3,0,0,1,1,Standard Preparedness
+06075016802,Census Tract 168.02; San Francisco County; California,075,San Francisco,3754,12.1,16.5,49.2,0,1,1,2,Elevated Concern
+06075016900,Census Tract 169; San Francisco County; California,075,San Francisco,2890,14.8,10.9,45.1,0,0,1,1,Standard Preparedness
+06075017000,Census Tract 170; San Francisco County; California,075,San Francisco,4016,23.0,5.4,19.2,0,0,0,0,Standard Preparedness
+06075017101,Census Tract 171.01; San Francisco County; California,075,San Francisco,4125,18.2,7.9,25.3,0,0,0,0,Standard Preparedness
+06075017102,Census Tract 171.02; San Francisco County; California,075,San Francisco,3550,18.1,4.5,28.6,0,0,0,0,Standard Preparedness
+06075017602,Census Tract 176.02; San Francisco County; California,075,San Francisco,3251,19.9,17.2,65.9,0,1,1,2,Elevated Concern
+06075017603,Census Tract 176.03; San Francisco County; California,075,San Francisco,4527,17.0,12.8,61.7,0,0,1,1,Standard Preparedness
+06075017604,Census Tract 176.04; San Francisco County; California,075,San Francisco,3720,5.4,11.3,69.7,0,0,1,1,Standard Preparedness
+06075017700,Census Tract 177; San Francisco County; California,075,San Francisco,2360,11.4,6.7,37.9,0,0,0,0,Standard Preparedness
+06075017801,Census Tract 178.01; San Francisco County; California,075,San Francisco,3335,57.9,34.0,60.1,1,1,1,3,High Priority
+06075017803,Census Tract 178.03; San Francisco County; California,075,San Francisco,2318,16.8,16.5,52.4,0,1,1,2,Elevated Concern
+06075017804,Census Tract 178.04; San Francisco County; California,075,San Francisco,3911,12.9,15.1,43.3,0,1,1,2,Elevated Concern
+06075017903,Census Tract 179.03; San Francisco County; California,075,San Francisco,2829,14.6,20.4,14.7,0,1,0,1,Standard Preparedness
+06075018000,Census Tract 180; San Francisco County; California,075,San Francisco,3636,13.8,13.5,41.5,0,0,1,1,Standard Preparedness
+06075020101,Census Tract 201.01; San Francisco County; California,075,San Francisco,4221,16.0,15.1,43.6,0,1,1,2,Elevated Concern
+06075020102,Census Tract 201.02; San Francisco County; California,075,San Francisco,3627,24.1,26.0,54.4,0,1,1,2,Elevated Concern
+06075020201,Census Tract 202.01; San Francisco County; California,075,San Francisco,1847,20.6,14.6,49.9,0,1,1,2,Elevated Concern
+06075020202,Census Tract 202.02; San Francisco County; California,075,San Francisco,3929,15.6,10.5,49.9,0,0,1,1,Standard Preparedness
+06075020300,Census Tract 203; San Francisco County; California,075,San Francisco,3372,14.0,10.5,41.7,0,0,1,1,Standard Preparedness
+06075020401,Census Tract 204.01; San Francisco County; California,075,San Francisco,3409,21.8,5.3,16.7,0,0,0,0,Standard Preparedness
+06075020402,Census Tract 204.02; San Francisco County; California,075,San Francisco,4083,25.6,13.4,16.6,0,0,0,0,Standard Preparedness
+06075020500,Census Tract 205; San Francisco County; California,075,San Francisco,2895,24.6,4.4,22.9,0,0,0,0,Standard Preparedness
+06075020601,Census Tract 206.01; San Francisco County; California,075,San Francisco,3073,22.8,15.1,41.4,0,1,0,1,Standard Preparedness
+06075020602,Census Tract 206.02; San Francisco County; California,075,San Francisco,2369,27.3,16.5,32.1,0,1,0,1,Standard Preparedness
+06075020701,Census Tract 207.01; San Francisco County; California,075,San Francisco,3032,9.7,8.9,28.7,0,0,0,0,Standard Preparedness
+06075020702,Census Tract 207.02; San Francisco County; California,075,San Francisco,2046,26.1,12.8,50.4,0,0,1,1,Standard Preparedness
+06075020801,Census Tract 208.01; San Francisco County; California,075,San Francisco,3732,23.2,11.8,38.1,0,0,0,0,Standard Preparedness
+06075020802,Census Tract 208.02; San Francisco County; California,075,San Francisco,2274,15.1,10.6,62.0,0,0,1,1,Standard Preparedness
+06075020900,Census Tract 209; San Francisco County; California,075,San Francisco,3644,21.9,17.7,39.0,0,1,0,1,Standard Preparedness
+06075021000,Census Tract 210; San Francisco County; California,075,San Francisco,3739,17.3,7.7,36.1,0,0,0,0,Standard Preparedness
+06075021100,Census Tract 211; San Francisco County; California,075,San Francisco,4054,19.4,4.8,21.3,0,0,0,0,Standard Preparedness
+06075021200,Census Tract 212; San Francisco County; California,075,San Francisco,3052,23.5,10.3,17.1,0,0,0,0,Standard Preparedness
+06075021300,Census Tract 213; San Francisco County; California,075,San Francisco,2948,29.6,5.0,8.4,0,0,0,0,Standard Preparedness
+06075021400,Census Tract 214; San Francisco County; California,075,San Francisco,3522,25.5,5.7,18.5,0,0,0,0,Standard Preparedness
+06075021500,Census Tract 215; San Francisco County; California,075,San Francisco,5341,17.7,3.8,8.6,0,0,0,0,Standard Preparedness
+06075021600,Census Tract 216; San Francisco County; California,075,San Francisco,4417,23.2,6.0,16.0,0,0,0,0,Standard Preparedness
+06075021700,Census Tract 217; San Francisco County; California,075,San Francisco,4459,32.6,7.9,4.2,0,0,0,0,Standard Preparedness
+06075021800,Census Tract 218; San Francisco County; California,075,San Francisco,3999,25.0,8.0,9.6,0,0,0,0,Standard Preparedness
+06075022600,Census Tract 226; San Francisco County; California,075,San Francisco,4210,2.1,2.6,27.2,0,0,0,0,Standard Preparedness
+06075022702,Census Tract 227.02; San Francisco County; California,075,San Francisco,2017,10.3,6.3,13.3,0,0,0,0,Standard Preparedness
+06075022704,Census Tract 227.04; San Francisco County; California,075,San Francisco,3982,17.3,7.5,10.0,0,0,0,0,Standard Preparedness
+06075022801,Census Tract 228.01; San Francisco County; California,075,San Francisco,4755,20.1,9.7,19.6,0,0,0,0,Standard Preparedness
+06075022802,Census Tract 228.02; San Francisco County; California,075,San Francisco,2236,20.8,13.3,25.2,0,0,0,0,Standard Preparedness
+06075022803,Census Tract 228.03; San Francisco County; California,075,San Francisco,4098,23.6,9.6,26.9,0,0,0,0,Standard Preparedness
+06075022901,Census Tract 229.01; San Francisco County; California,075,San Francisco,4197,25.3,12.2,28.6,0,0,0,0,Standard Preparedness
+06075022902,Census Tract 229.02; San Francisco County; California,075,San Francisco,2019,29.7,16.7,22.0,0,1,0,1,Standard Preparedness
+06075022903,Census Tract 229.03; San Francisco County; California,075,San Francisco,2675,22.5,5.8,15.0,0,0,0,0,Standard Preparedness
+06075023001,Census Tract 230.01; San Francisco County; California,075,San Francisco,5576,48.1,9.9,2.7,1,0,0,1,Standard Preparedness
+06075023003,Census Tract 230.03; San Francisco County; California,075,San Francisco,4025,56.3,9.7,16.2,1,0,0,1,Standard Preparedness
+06075023102,Census Tract 231.02; San Francisco County; California,075,San Francisco,3411,26.4,14.4,27.0,0,1,0,1,Standard Preparedness
+06075023103,Census Tract 231.03; San Francisco County; California,075,San Francisco,4512,19.2,16.5,24.1,0,1,0,1,Standard Preparedness
+06075023200,Census Tract 232; San Francisco County; California,075,San Francisco,4214,35.6,12.3,4.2,0,0,0,0,Standard Preparedness
+06075023300,Census Tract 233; San Francisco County; California,075,San Francisco,3934,33.9,16.6,15.5,0,1,0,1,Standard Preparedness
+06075023400,Census Tract 234; San Francisco County; California,075,San Francisco,3811,39.3,14.4,22.9,1,1,0,2,Elevated Concern
+06075025100,Census Tract 251; San Francisco County; California,075,San Francisco,3342,29.8,11.3,11.6,0,0,0,0,Standard Preparedness
+06075025200,Census Tract 252; San Francisco County; California,075,San Francisco,5610,20.2,9.5,20.7,0,0,0,0,Standard Preparedness
+06075025300,Census Tract 253; San Francisco County; California,075,San Francisco,4218,25.2,7.9,16.5,0,0,0,0,Standard Preparedness
+06075025401,Census Tract 254.01; San Francisco County; California,075,San Francisco,3706,21.8,7.1,12.7,0,0,0,0,Standard Preparedness
+06075025402,Census Tract 254.02; San Francisco County; California,075,San Francisco,3163,30.1,11.4,7.0,0,0,0,0,Standard Preparedness
+06075025403,Census Tract 254.03; San Francisco County; California,075,San Francisco,4686,34.2,10.1,12.5,0,0,0,0,Standard Preparedness
+06075025501,Census Tract 255.01; San Francisco County; California,075,San Francisco,4073,41.3,6.1,0.5,1,0,0,1,Standard Preparedness
+06075025502,Census Tract 255.02; San Francisco County; California,075,San Francisco,3451,34.9,9.1,14.3,0,0,0,0,Standard Preparedness
+06075025600,Census Tract 256; San Francisco County; California,075,San Francisco,5290,42.9,11.2,14.1,1,0,0,1,Standard Preparedness
+06075025701,Census Tract 257.01; San Francisco County; California,075,San Francisco,5047,28.4,8.3,6.4,0,0,0,0,Standard Preparedness
+06075025702,Census Tract 257.02; San Francisco County; California,075,San Francisco,4601,50.8,10.1,16.9,1,0,0,1,Standard Preparedness
+06075025800,Census Tract 258; San Francisco County; California,075,San Francisco,1776,31.6,11.3,25.4,0,0,0,0,Standard Preparedness
+06075025900,Census Tract 259; San Francisco County; California,075,San Francisco,4134,33.0,8.6,7.1,0,0,0,0,Standard Preparedness
+06075026001,Census Tract 260.01; San Francisco County; California,075,San Francisco,6010,35.1,8.9,11.4,0,0,0,0,Standard Preparedness
+06075026002,Census Tract 260.02; San Francisco County; California,075,San Francisco,3731,46.9,15.7,4.5,1,1,0,2,Elevated Concern
+06075026003,Census Tract 260.03; San Francisco County; California,075,San Francisco,4873,35.2,6.3,11.0,0,0,0,0,Standard Preparedness
+06075026004,Census Tract 260.04; San Francisco County; California,075,San Francisco,3924,42.4,6.5,14.3,1,0,0,1,Standard Preparedness
+06075026100,Census Tract 261; San Francisco County; California,075,San Francisco,6601,40.6,9.2,18.0,1,0,0,1,Standard Preparedness
+06075026201,Census Tract 262.01; San Francisco County; California,075,San Francisco,3928,46.5,11.0,13.9,1,0,0,1,Standard Preparedness
+06075026202,Census Tract 262.02; San Francisco County; California,075,San Francisco,3664,50.4,11.3,16.4,1,0,0,1,Standard Preparedness
+06075026301,Census Tract 263.01; San Francisco County; California,075,San Francisco,4955,47.0,17.4,22.3,1,1,0,2,Elevated Concern
+06075026302,Census Tract 263.02; San Francisco County; California,075,San Francisco,4707,41.7,12.4,10.6,1,0,0,1,Standard Preparedness
+06075026303,Census Tract 263.03; San Francisco County; California,075,San Francisco,4425,31.3,10.7,4.8,0,0,0,0,Standard Preparedness
+06075026401,Census Tract 264.01; San Francisco County; California,075,San Francisco,3470,44.3,13.7,26.2,1,1,0,2,Elevated Concern
+06075026402,Census Tract 264.02; San Francisco County; California,075,San Francisco,4654,53.6,11.4,11.4,1,0,0,1,Standard Preparedness
+06075026403,Census Tract 264.03; San Francisco County; California,075,San Francisco,3453,44.2,6.6,14.8,1,0,0,1,Standard Preparedness
+06075026404,Census Tract 264.04; San Francisco County; California,075,San Francisco,2404,42.7,9.4,13.7,1,0,0,1,Standard Preparedness
+06075030101,Census Tract 301.01; San Francisco County; California,075,San Francisco,4588,17.1,9.2,28.5,0,0,0,0,Standard Preparedness
+06075030102,Census Tract 301.02; San Francisco County; California,075,San Francisco,4808,25.8,7.8,12.3,0,0,0,0,Standard Preparedness
+06075030201,Census Tract 302.01; San Francisco County; California,075,San Francisco,4120,35.8,7.0,31.0,0,0,0,0,Standard Preparedness
+06075030202,Census Tract 302.02; San Francisco County; California,075,San Francisco,4017,28.7,9.0,30.7,0,0,0,0,Standard Preparedness
+06075030301,Census Tract 303.01; San Francisco County; California,075,San Francisco,6509,30.1,5.9,8.5,0,0,0,0,Standard Preparedness
+06075030302,Census Tract 303.02; San Francisco County; California,075,San Francisco,3492,45.1,10.7,1.3,1,0,0,1,Standard Preparedness
+06075030400,Census Tract 304; San Francisco County; California,075,San Francisco,5120,54.3,8.3,6.8,1,0,0,1,Standard Preparedness
+06075030500,Census Tract 305; San Francisco County; California,075,San Francisco,3778,37.1,11.2,13.3,0,0,0,0,Standard Preparedness
+06075030600,Census Tract 306; San Francisco County; California,075,San Francisco,2356,37.2,4.7,3.7,0,0,0,0,Standard Preparedness
+06075030700,Census Tract 307; San Francisco County; California,075,San Francisco,6600,44.5,12.8,4.5,1,0,0,1,Standard Preparedness
+06075030800,Census Tract 308; San Francisco County; California,075,San Francisco,5769,41.0,9.8,13.5,1,0,0,1,Standard Preparedness
+06075030900,Census Tract 309; San Francisco County; California,075,San Francisco,6425,55.0,10.4,4.3,1,0,0,1,Standard Preparedness
+06075031000,Census Tract 310; San Francisco County; California,075,San Francisco,4336,39.0,12.8,8.6,1,0,0,1,Standard Preparedness
+06075031100,Census Tract 311; San Francisco County; California,075,San Francisco,6276,33.4,6.3,8.5,0,0,0,0,Standard Preparedness
+06075031201,Census Tract 312.01; San Francisco County; California,075,San Francisco,5906,38.5,12.6,28.1,1,0,0,1,Standard Preparedness
+06075031202,Census Tract 312.02; San Francisco County; California,075,San Francisco,2919,38.1,10.6,13.1,0,0,0,0,Standard Preparedness
+06075031301,Census Tract 313.01; San Francisco County; California,075,San Francisco,3847,44.5,10.0,7.5,1,0,0,1,Standard Preparedness
+06075031302,Census Tract 313.02; San Francisco County; California,075,San Francisco,4727,37.0,10.4,6.8,0,0,0,0,Standard Preparedness
+06075031401,Census Tract 314.01; San Francisco County; California,075,San Francisco,2700,46.5,11.9,13.8,1,0,0,1,Standard Preparedness
+06075031402,Census Tract 314.02; San Francisco County; California,075,San Francisco,4671,41.2,13.9,15.0,1,1,0,2,Elevated Concern
+06075032601,Census Tract 326.01; San Francisco County; California,075,San Francisco,4511,27.9,11.8,18.9,0,0,0,0,Standard Preparedness
+06075032602,Census Tract 326.02; San Francisco County; California,075,San Francisco,4105,36.4,16.0,13.0,0,1,0,1,Standard Preparedness
+06075032700,Census Tract 327; San Francisco County; California,075,San Francisco,6729,50.5,8.5,7.3,1,0,0,1,Standard Preparedness
+06075032801,Census Tract 328.01; San Francisco County; California,075,San Francisco,3946,50.0,8.5,5.3,1,0,0,1,Standard Preparedness
+06075032802,Census Tract 328.02; San Francisco County; California,075,San Francisco,4185,43.7,12.3,12.2,1,0,0,1,Standard Preparedness
+06075032901,Census Tract 329.01; San Francisco County; California,075,San Francisco,5071,41.5,8.2,12.7,1,0,0,1,Standard Preparedness
+06075032902,Census Tract 329.02; San Francisco County; California,075,San Francisco,3797,56.8,6.1,6.2,1,0,0,1,Standard Preparedness
+06075033001,Census Tract 330.01; San Francisco County; California,075,San Francisco,3858,48.1,4.6,7.4,1,0,0,1,Standard Preparedness
+06075033002,Census Tract 330.02; San Francisco County; California,075,San Francisco,3940,35.7,11.2,10.8,0,0,0,0,Standard Preparedness
+06075033100,Census Tract 331; San Francisco County; California,075,San Francisco,3866,44.2,8.9,8.1,1,0,0,1,Standard Preparedness
+06075033201,Census Tract 332.01; San Francisco County; California,075,San Francisco,3535,10.6,8.3,33.8,0,0,0,0,Standard Preparedness
+06075033203,Census Tract 332.03; San Francisco County; California,075,San Francisco,3339,24.3,12.3,14.9,0,0,0,0,Standard Preparedness
+06075033204,Census Tract 332.04; San Francisco County; California,075,San Francisco,3327,50.0,20.6,30.3,1,1,0,2,Elevated Concern
+06075035101,Census Tract 351.01; San Francisco County; California,075,San Francisco,3848,37.7,12.5,15.6,0,0,0,0,Standard Preparedness
+06075035102,Census Tract 351.02; San Francisco County; California,075,San Francisco,3828,45.6,7.9,9.4,1,0,0,1,Standard Preparedness
+06075035201,Census Tract 352.01; San Francisco County; California,075,San Francisco,5136,45.3,12.6,11.8,1,0,0,1,Standard Preparedness
+06075035202,Census Tract 352.02; San Francisco County; California,075,San Francisco,4559,34.1,14.5,7.1,0,1,0,1,Standard Preparedness
+06075035300,Census Tract 353; San Francisco County; California,075,San Francisco,6922,39.4,8.7,9.3,1,0,0,1,Standard Preparedness
+06075035400,Census Tract 354; San Francisco County; California,075,San Francisco,7154,46.4,13.9,19.1,1,1,0,2,Elevated Concern
+06075040100,Census Tract 401; San Francisco County; California,075,San Francisco,4277,27.6,6.9,15.8,0,0,0,0,Standard Preparedness
+06075040200,Census Tract 402; San Francisco County; California,075,San Francisco,4903,34.2,9.9,34.7,0,0,0,0,Standard Preparedness
+06075042601,Census Tract 426.01; San Francisco County; California,075,San Francisco,3999,27.8,6.4,24.0,0,0,0,0,Standard Preparedness
+06075042602,Census Tract 426.02; San Francisco County; California,075,San Francisco,3060,30.0,7.8,19.5,0,0,0,0,Standard Preparedness
+06075042700,Census Tract 427; San Francisco County; California,075,San Francisco,5365,35.7,10.3,21.6,0,0,0,0,Standard Preparedness
+06075042800,Census Tract 428; San Francisco County; California,075,San Francisco,2419,48.7,10.7,5.4,1,0,0,1,Standard Preparedness
+06075045100,Census Tract 451; San Francisco County; California,075,San Francisco,4664,23.4,10.7,16.1,0,0,0,0,Standard Preparedness
+06075045201,Census Tract 452.01; San Francisco County; California,075,San Francisco,3113,35.8,13.4,22.6,0,0,0,0,Standard Preparedness
+06075045202,Census Tract 452.02; San Francisco County; California,075,San Francisco,3304,27.0,9.9,24.0,0,0,0,0,Standard Preparedness
+06075047600,Census Tract 476; San Francisco County; California,075,San Francisco,5208,39.4,6.1,17.5,1,0,0,1,Standard Preparedness
+06075047701,Census Tract 477.01; San Francisco County; California,075,San Francisco,4742,33.8,7.3,29.6,0,0,0,0,Standard Preparedness
+06075047702,Census Tract 477.02; San Francisco County; California,075,San Francisco,3441,33.9,10.5,23.6,0,0,0,0,Standard Preparedness
+06075047801,Census Tract 478.01; San Francisco County; California,075,San Francisco,4227,34.2,9.3,13.6,0,0,0,0,Standard Preparedness
+06075047802,Census Tract 478.02; San Francisco County; California,075,San Francisco,3897,40.5,10.3,11.9,1,0,0,1,Standard Preparedness
+06075047902,Census Tract 479.02; San Francisco County; California,075,San Francisco,3327,33.8,10.6,16.0,0,0,0,0,Standard Preparedness
+06075047903,Census Tract 479.03; San Francisco County; California,075,San Francisco,3608,38.1,9.1,10.9,0,0,0,0,Standard Preparedness
+06075047904,Census Tract 479.04; San Francisco County; California,075,San Francisco,3175,41.5,18.0,31.5,1,1,0,2,Elevated Concern
+06075060100,Census Tract 601; San Francisco County; California,075,San Francisco,3808,12.9,4.4,5.2,0,0,0,0,Standard Preparedness
+06075060400,Census Tract 604; San Francisco County; California,075,San Francisco,1818,23.0,7.3,11.4,0,0,0,0,Standard Preparedness
+06075060502,Census Tract 605.02; San Francisco County; California,075,San Francisco,3087,26.2,16.2,23.2,0,1,0,1,Standard Preparedness
+06075060701,Census Tract 607.01; San Francisco County; California,075,San Francisco,8415,11.8,5.7,24.8,0,0,0,0,Standard Preparedness
+06075060702,Census Tract 607.02; San Francisco County; California,075,San Francisco,2359,18.8,12.9,34.8,0,0,0,0,Standard Preparedness
+06075060703,Census Tract 607.03; San Francisco County; California,075,San Francisco,5936,10.3,9.0,33.2,0,0,0,0,Standard Preparedness
+06075061000,Census Tract 610; San Francisco County; California,075,San Francisco,4558,27.0,11.9,6.2,0,0,0,0,Standard Preparedness
+06075061101,Census Tract 611.01; San Francisco County; California,075,San Francisco,1814,48.7,20.6,73.3,1,1,1,3,High Priority
+06075061102,Census Tract 611.02; San Francisco County; California,075,San Francisco,2017,58.2,24.2,75.5,1,1,1,3,High Priority
+06075061200,Census Tract 612; San Francisco County; California,075,San Francisco,4163,43.9,10.2,15.2,1,0,0,1,Standard Preparedness
+06075061401,Census Tract 614.01; San Francisco County; California,075,San Francisco,2900,29.2,9.4,23.3,0,0,0,0,Standard Preparedness
+06075061402,Census Tract 614.02; San Francisco County; California,075,San Francisco,2354,14.8,4.7,7.5,0,0,0,0,Standard Preparedness
+06075061501,Census Tract 615.01; San Francisco County; California,075,San Francisco,1807,13.7,2.5,22.7,0,0,0,0,Standard Preparedness
+06075061502,Census Tract 615.02; San Francisco County; California,075,San Francisco,2195,17.9,13.1,43.2,0,0,1,1,Standard Preparedness
+06075061503,Census Tract 615.03; San Francisco County; California,075,San Francisco,3612,10.3,11.7,50.7,0,0,1,1,Standard Preparedness
+06075061504,Census Tract 615.04; San Francisco County; California,075,San Francisco,2133,9.4,11.2,32.8,0,0,0,0,Standard Preparedness
+06075061505,Census Tract 615.05; San Francisco County; California,075,San Francisco,1162,16.1,1.9,8.5,0,0,0,0,Standard Preparedness
+06075061506,Census Tract 615.06; San Francisco County; California,075,San Francisco,4918,8.3,2.8,20.0,0,0,0,0,Standard Preparedness
+06075061507,Census Tract 615.07; San Francisco County; California,075,San Francisco,1550,7.5,1.4,56.8,0,0,1,1,Standard Preparedness
+06075061508,Census Tract 615.08; San Francisco County; California,075,San Francisco,2018,9.3,17.2,47.6,0,1,1,2,Elevated Concern
+06075980300,Census Tract 9803; San Francisco County; California,075,San Francisco,49,0.0,0.0,60.0,0,0,1,1,Standard Preparedness
+06075980501,Census Tract 9805.01; San Francisco County; California,075,San Francisco,155,100.0,54.2,93.5,1,1,1,3,High Priority
+06075980600,Census Tract 9806; San Francisco County; California,075,San Francisco,1290,10.1,6.2,6.1,0,0,0,0,Standard Preparedness
+06075980900,Census Tract 9809; San Francisco County; California,075,San Francisco,322,8.9,9.0,1.7,0,0,0,0,Standard Preparedness
+06089010100,Census Tract 101; Shasta County; California,089,Shasta,1818,34.1,25.6,20.6,0,1,1,2,Elevated Concern
+06089010200,Census Tract 102; Shasta County; California,089,Shasta,2277,34.7,19.8,7.3,0,0,0,0,Standard Preparedness
+06089010300,Census Tract 103; Shasta County; California,089,Shasta,4098,21.1,15.4,6.6,0,0,0,0,Standard Preparedness
+06089010400,Census Tract 104; Shasta County; California,089,Shasta,4981,31.1,19.3,7.4,0,0,0,0,Standard Preparedness
+06089010500,Census Tract 105; Shasta County; California,089,Shasta,5335,23.6,17.4,9.1,0,0,1,1,Standard Preparedness
+06089010601,Census Tract 106.01; Shasta County; California,089,Shasta,2481,57.5,11.6,1.3,1,0,0,1,Standard Preparedness
+06089010602,Census Tract 106.02; Shasta County; California,089,Shasta,5468,39.6,14.7,8.6,0,0,1,1,Standard Preparedness
+06089010603,Census Tract 106.03; Shasta County; California,089,Shasta,1106,50.6,11.3,0.0,1,0,0,1,Standard Preparedness
+06089010702,Census Tract 107.02; Shasta County; California,089,Shasta,3322,34.4,12.9,7.0,0,0,0,0,Standard Preparedness
+06089010703,Census Tract 107.03; Shasta County; California,089,Shasta,3932,43.0,20.6,18.5,0,0,1,1,Standard Preparedness
+06089010704,Census Tract 107.04; Shasta County; California,089,Shasta,3977,30.0,28.1,7.5,0,1,0,1,Standard Preparedness
+06089010803,Census Tract 108.03; Shasta County; California,089,Shasta,5411,27.7,17.6,11.6,0,0,1,1,Standard Preparedness
+06089010804,Census Tract 108.04; Shasta County; California,089,Shasta,2194,49.3,13.2,3.3,1,0,0,1,Standard Preparedness
+06089010805,Census Tract 108.05; Shasta County; California,089,Shasta,5358,40.7,15.0,1.9,0,0,0,0,Standard Preparedness
+06089010806,Census Tract 108.06; Shasta County; California,089,Shasta,3161,29.5,21.6,9.4,0,0,1,1,Standard Preparedness
+06089010807,Census Tract 108.07; Shasta County; California,089,Shasta,4604,45.6,18.6,4.0,0,0,0,0,Standard Preparedness
+06089010900,Census Tract 109; Shasta County; California,089,Shasta,4731,30.1,18.0,10.4,0,0,1,1,Standard Preparedness
+06089011001,Census Tract 110.01; Shasta County; California,089,Shasta,1632,54.0,14.2,3.0,1,0,0,1,Standard Preparedness
+06089011002,Census Tract 110.02; Shasta County; California,089,Shasta,4928,32.9,17.0,6.8,0,0,0,0,Standard Preparedness
+06089011100,Census Tract 111; Shasta County; California,089,Shasta,3340,39.7,17.6,5.1,0,0,0,0,Standard Preparedness
+06089011209,Census Tract 112.09; Shasta County; California,089,Shasta,5707,28.8,16.7,4.4,0,0,0,0,Standard Preparedness
+06089011300,Census Tract 113; Shasta County; California,089,Shasta,5047,23.1,13.5,4.6,0,0,0,0,Standard Preparedness
+06089011401,Census Tract 114.01; Shasta County; California,089,Shasta,4211,36.9,14.8,2.2,0,0,0,0,Standard Preparedness
+06089011402,Census Tract 114.02; Shasta County; California,089,Shasta,2682,39.5,17.3,0.8,0,0,0,0,Standard Preparedness
+06089011403,Census Tract 114.03; Shasta County; California,089,Shasta,3258,35.4,16.7,7.9,0,0,1,1,Standard Preparedness
+06089011501,Census Tract 115.01; Shasta County; California,089,Shasta,3282,25.7,9.6,4.5,0,0,0,0,Standard Preparedness
+06089011502,Census Tract 115.02; Shasta County; California,089,Shasta,2642,63.7,28.6,5.2,1,1,0,2,Elevated Concern
+06089011600,Census Tract 116; Shasta County; California,089,Shasta,3510,44.3,19.5,6.1,0,0,0,0,Standard Preparedness
+06089011701,Census Tract 117.01; Shasta County; California,089,Shasta,2846,26.6,14.9,1.0,0,0,0,0,Standard Preparedness
+06089011702,Census Tract 117.02; Shasta County; California,089,Shasta,3582,36.4,22.6,3.8,0,1,0,1,Standard Preparedness
+06089011703,Census Tract 117.03; Shasta County; California,089,Shasta,2898,39.9,28.7,14.8,0,1,1,2,Elevated Concern
+06089011801,Census Tract 118.01; Shasta County; California,089,Shasta,3058,42.6,17.6,0.6,0,0,0,0,Standard Preparedness
+06089011802,Census Tract 118.02; Shasta County; California,089,Shasta,2635,43.7,16.0,0.7,0,0,0,0,Standard Preparedness
+06089011803,Census Tract 118.03; Shasta County; California,089,Shasta,2625,41.0,22.5,7.6,0,1,0,1,Standard Preparedness
+06089011900,Census Tract 119; Shasta County; California,089,Shasta,5121,45.2,12.7,2.7,0,0,0,0,Standard Preparedness
+06089012000,Census Tract 120; Shasta County; California,089,Shasta,5417,24.2,21.6,2.4,0,0,0,0,Standard Preparedness
+06089012101,Census Tract 121.01; Shasta County; California,089,Shasta,5056,27.7,24.3,5.1,0,1,0,1,Standard Preparedness
+06089012102,Census Tract 121.02; Shasta County; California,089,Shasta,2250,46.1,23.8,17.2,1,1,1,3,High Priority
+06089012200,Census Tract 122; Shasta County; California,089,Shasta,6346,32.2,16.5,3.1,0,0,0,0,Standard Preparedness
+06089012301,Census Tract 123.01; Shasta County; California,089,Shasta,2655,33.7,19.2,9.6,0,0,1,1,Standard Preparedness
+06089012302,Census Tract 123.02; Shasta County; California,089,Shasta,5747,46.3,12.8,7.9,1,0,1,2,Elevated Concern
+06089012303,Census Tract 123.03; Shasta County; California,089,Shasta,3749,48.3,16.4,1.8,1,0,0,1,Standard Preparedness
+06089012400,Census Tract 124; Shasta County; California,089,Shasta,3275,40.7,13.6,3.1,0,0,0,0,Standard Preparedness
+06089012500,Census Tract 125; Shasta County; California,089,Shasta,1222,64.4,33.1,2.5,1,1,0,2,Elevated Concern
+06089012603,Census Tract 126.03; Shasta County; California,089,Shasta,4093,64.7,23.9,2.1,1,1,0,2,Elevated Concern
+06089012604,Census Tract 126.04; Shasta County; California,089,Shasta,2259,46.8,19.9,1.8,1,0,0,1,Standard Preparedness
+06089012605,Census Tract 126.05; Shasta County; California,089,Shasta,1956,57.8,16.5,1.8,1,0,0,1,Standard Preparedness
+06089012606,Census Tract 126.06; Shasta County; California,089,Shasta,3438,41.8,23.3,5.6,0,1,0,1,Standard Preparedness
+06089012701,Census Tract 127.01; Shasta County; California,089,Shasta,4006,46.6,23.1,8.2,1,1,1,3,High Priority
+06089012702,Census Tract 127.02; Shasta County; California,089,Shasta,2827,45.0,17.2,5.8,0,0,0,0,Standard Preparedness

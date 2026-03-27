@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Large data files
+CA Census Tract Demographic Info.csv
+tl_2025_06_tract/
