@@ -121,14 +121,15 @@ Report your final results and key insights:
 
 ## Team Contributions
 
-| Name         | Contributions                                |
-|--------------|----------------------------------------------|
-| Name 1       | Feature engineering, model tuning            |
-| Name 2       | EDA, preprocessing, geospatial joins         |
-| Name 3       | Final modeling, evaluation, GitHub setup     |
-| Name 4       | Slides, results summary, presentation prep   |
+| Name             | Contributions                                                                  |
+|------------------|--------------------------------------------------------------------------------|
+| Riya Bharathwaj  | EDA, Feature engineering, modeling, building solution, presentation prep       |
+| Ting-ya Chang    | EDA, geospatial joins, Research/Outreach, building solution, presentation prep |
+| Saehee Eom       | EDA, Feature engineering, modeling, building solution, presentation prep       |
+| Tanmayee Kolli   | EDA, Research/Outreach, building solution, presentation prep                   |
+| Simran Mallik    | EDA, preprocessing, Research/Outreach, building solution, presentation prep    |
 
-> All members are expected to contribute, this is an example of how to split the work load. 
+
 
 ---
 
