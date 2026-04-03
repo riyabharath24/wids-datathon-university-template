@@ -4,7 +4,7 @@
 
 <h1 align="center">WiDS Datathon 2026 – Ramblin' Pathfinders</h1>
 
-
+![CERMmatching](images/matching.gif)
 
 ---
 
